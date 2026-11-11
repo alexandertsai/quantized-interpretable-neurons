@@ -1,0 +1,4829 @@
+{
+  "rows": [
+    {
+      "case_id": "c_a0c1bb4a414941",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6077,
+      "control_index": 6464,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_54aef93f294e18",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6077,
+      "control_index": 6464,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_f88e607cd903c8",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8517,
+      "control_index": 2394,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_1285be6db8a4d1",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 8517,
+      "control_index": 2394,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_ee416f6effbe14",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6012,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_dc6321b50a674a",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6012,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_329c956641cd98",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10494,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_86ff206b6b1f2a",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10494,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_8a5f8ce2af6ac2",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11876,
+      "control_index": 763,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_59e835f43b5727",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 11876,
+      "control_index": 763,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_0fb25cc804b9af",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11660,
+      "control_index": 9641,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_2821f97cde6a7c",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 11660,
+      "control_index": 9641,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_d8d2404af3352d",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 3709,
+      "control_index": 1913,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_47d91a57c8013d",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10204,
+      "control_index": 14632,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_92b48c70b4c8b6",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9887,
+      "control_index": 8128,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_a6b1664451c98e",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 9887,
+      "control_index": 8128,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_aa289056a918d4",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 12996,
+      "control_index": 16097,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_716ad57a12efb1",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 12996,
+      "control_index": 16097,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_78c8b0de7d9eb3",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 8038,
+      "control_index": 6439,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_b0fe3b890c94b7",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9564,
+      "control_index": 10568,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_c1c1aedc4bca71",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13729,
+      "control_index": 5433,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_83b8d7f42b4b1a",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 13729,
+      "control_index": 5433,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_7ac6a5bcb25627",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8844,
+      "control_index": 14521,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_c2e126f40c39c4",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 8844,
+      "control_index": 14521,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_1975d8bd5bedf2",
+      "pid": "L9_E238_N497__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14173,
+      "control_index": 5474,
+      "pole_column": 6
+    },
+    {
+      "case_id": "c_5cdb650c4e2bbd",
+      "pid": "L9_E238_N497__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 14173,
+      "control_index": 5474,
+      "pole_column": 6
+    },
+    {
+      "case_id": "c_4452c36e2a8fe8",
+      "pid": "L14_E239_N142__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 14091,
+      "control_index": 10989,
+      "pole_column": 7
+    },
+    {
+      "case_id": "c_9d313ee2e7f938",
+      "pid": "L14_E239_N142__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 14091,
+      "control_index": 10989,
+      "pole_column": 7
+    },
+    {
+      "case_id": "c_0d9b13e2d0a6df",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4042,
+      "control_index": 874,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_10f893071d6409",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 4042,
+      "control_index": 874,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_b8801ddf1b78e8",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 321,
+      "control_index": 5062,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_11c8de35f3ee4c",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 321,
+      "control_index": 5062,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_33eb5001c1fb98",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7105,
+      "control_index": 2374,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_21788b090d116b",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1211,
+      "control_index": 6771,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_575cdbb0408561",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13659,
+      "control_index": 749,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_5b3593ae4d59fb",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 13659,
+      "control_index": 749,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_13c13c665a3fbd",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 5386,
+      "control_index": 13541,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_1c6e5a54611af7",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5386,
+      "control_index": 13541,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_18f6f4d0c02749",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 484,
+      "control_index": 789,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_a9fa31d44393ad",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 790,
+      "control_index": 6581,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_a529e32f687304",
+      "pid": "L30_E24_N187__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6521,
+      "control_index": 14625,
+      "pole_column": 10
+    },
+    {
+      "case_id": "c_7992d4078f4e8f",
+      "pid": "L30_E24_N187__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6521,
+      "control_index": 14625,
+      "pole_column": 10
+    },
+    {
+      "case_id": "c_6d6563e4724460",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2144,
+      "control_index": 9841,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_e6029154be64b9",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 2144,
+      "control_index": 9841,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_2ca710ecad50e4",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1433,
+      "control_index": 2003,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_a5719ce7ba1d9c",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 1433,
+      "control_index": 2003,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_0bcc34287eaa93",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 353,
+      "control_index": 12688,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_2db593f8af8c5b",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 3469,
+      "control_index": 10225,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_209a710d453c03",
+      "pid": "L9_E173_N429__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 834,
+      "control_index": 7370,
+      "pole_column": 12
+    },
+    {
+      "case_id": "c_bfe27af48435b0",
+      "pid": "L9_E173_N429__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 834,
+      "control_index": 7370,
+      "pole_column": 12
+    },
+    {
+      "case_id": "c_47f3c1375c6fd9",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9067,
+      "control_index": 13783,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_844262487643af",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 9067,
+      "control_index": 13783,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_70335ab09611f9",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 980,
+      "control_index": 5100,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_d31ee43032fc32",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 980,
+      "control_index": 5100,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_2e546bf2d07506",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7956,
+      "control_index": 11359,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_79b14ce7d47b7d",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13482,
+      "control_index": 14593,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_d7df0730effa22",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11663,
+      "control_index": 8512,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_3211835bf47869",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 11663,
+      "control_index": 8512,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_015635c734e68e",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10218,
+      "control_index": 11485,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_8bd5e00c097ac2",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 10218,
+      "control_index": 11485,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_5b20961e26d98a",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8586,
+      "control_index": 14708,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_86f12c4a698382",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11135,
+      "control_index": 11331,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_53a3b8ff73f00e",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5370,
+      "control_index": 7285,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_d95b51d2dfac86",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5370,
+      "control_index": 7285,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_e9622fde99bc8e",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10178,
+      "control_index": 16288,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_9e8d48f9aaab38",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10178,
+      "control_index": 16288,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_a96efb431abb09",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 7395,
+      "control_index": 6613,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_3334434e978e50",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 16276,
+      "control_index": 10562,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_305ee0777a8c7f",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10945,
+      "control_index": 14465,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_554298a8e0b7ea",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10945,
+      "control_index": 14465,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_b778353da390ee",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1700,
+      "control_index": 14420,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_3e5ff308cb95f7",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 1700,
+      "control_index": 14420,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_2aecb6650bb29a",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7050,
+      "control_index": 771,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_d66b61642e12e2",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 931,
+      "control_index": 10879,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_b41c1d1c400864",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 5408,
+      "control_index": 1487,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_992fb0a2feeb0d",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5408,
+      "control_index": 1487,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_b5c338e4e7f75e",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13130,
+      "control_index": 15708,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_613f71ee242ab0",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 13130,
+      "control_index": 15708,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_2d30a3cec5619c",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 7567,
+      "control_index": 10190,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_2b4fae910d044c",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15134,
+      "control_index": 1413,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_8f2ac70b6f3a3b",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9975,
+      "control_index": 4957,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_090a7c450351dc",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 9975,
+      "control_index": 4957,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_387f2529d24f00",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8452,
+      "control_index": 14819,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_8b8ac9e206cf0a",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 8452,
+      "control_index": 14819,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_da7e163ed093df",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 3547,
+      "control_index": 2132,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_68cfc77f1521a7",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 3547,
+      "control_index": 2132,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_a2b029935dd74f",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5489,
+      "control_index": 11494,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_37e6f0ce72aed1",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 5489,
+      "control_index": 11494,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_3f0fc8339f0fe3",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2520,
+      "control_index": 15202,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_4d187f024a58a7",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4903,
+      "control_index": 7574,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_a945889945e01d",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7316,
+      "control_index": 9341,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_ca39364ad3b048",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 7316,
+      "control_index": 9341,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_63a0eeaf0ad064",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 66,
+      "control_index": 7618,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_3946a582901467",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 66,
+      "control_index": 7618,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_5c4b3877980444",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4688,
+      "control_index": 6538,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_a1831dbe675b0b",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 4688,
+      "control_index": 6538,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_7ccacd1bf8d370",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 911,
+      "control_index": 15985,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_77b753b0e916a2",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 911,
+      "control_index": 15985,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_d3b0bf5b1cba7e",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 9712,
+      "control_index": 12223,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_b479ad8d169dd1",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5268,
+      "control_index": 1725,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_4aaae280e820c0",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13512,
+      "control_index": 6720,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_5a14fdadf17488",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 13512,
+      "control_index": 6720,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_46f377b6fef0ef",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6127,
+      "control_index": 7484,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_bff41e0bfd332b",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6127,
+      "control_index": 7484,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_57baf59811b6fe",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1910,
+      "control_index": 7485,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_f44e2e2fe98717",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7265,
+      "control_index": 13570,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_ce33afd3e0bb9b",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11027,
+      "control_index": 3347,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_3f03915451d960",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 11027,
+      "control_index": 3347,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_92ecc8116952fe",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6837,
+      "control_index": 3708,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_4289099e1eae39",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6837,
+      "control_index": 3708,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_bbc51bae3b669d",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15727,
+      "control_index": 9411,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_86d60e6d08d0b9",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13677,
+      "control_index": 1655,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_9da98da67337fc",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 13677,
+      "control_index": 1655,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_471a848e691407",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1135,
+      "control_index": 6871,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_dd5608afa5760e",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 1135,
+      "control_index": 6871,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_bab4fd1554ddfe",
+      "pid": "L30_E26_N182__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14283,
+      "control_index": 15954,
+      "pole_column": 26
+    },
+    {
+      "case_id": "c_a436f28dd59977",
+      "pid": "L30_E26_N182__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 14283,
+      "control_index": 15954,
+      "pole_column": 26
+    },
+    {
+      "case_id": "c_37301e7fa6137b",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9930,
+      "control_index": 4737,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_0dca32dfc45de9",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 9930,
+      "control_index": 4737,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_d375f508ac498a",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1918,
+      "control_index": 7128,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_5682648fbecff0",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 1918,
+      "control_index": 7128,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_3e211150036d43",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13579,
+      "control_index": 10084,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_ef6eca90458d3b",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15190,
+      "control_index": 8342,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_349b165c2e6240",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 16147,
+      "control_index": 6466,
+      "pole_column": 28
+    },
+    {
+      "case_id": "c_38ed57c5619fe7",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 16147,
+      "control_index": 6466,
+      "pole_column": 28
+    },
+    {
+      "case_id": "c_604992dcf38d4a",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6469,
+      "control_index": 7787,
+      "pole_column": 28
+    },
+    {
+      "case_id": "c_8014fa50fcc14a",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6469,
+      "control_index": 7787,
+      "pole_column": 28
+    },
+    {
+      "case_id": "c_220ec1109ff334",
+      "pid": "L14_E129_N371__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10335,
+      "control_index": 6238,
+      "pole_column": 29
+    },
+    {
+      "case_id": "c_12d06e6b7ca4a0",
+      "pid": "L14_E129_N371__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10335,
+      "control_index": 6238,
+      "pole_column": 29
+    },
+    {
+      "case_id": "c_6a461974fdd6f8",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10366,
+      "control_index": 4275,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_f9861a44422837",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10366,
+      "control_index": 4275,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_8749f9c925fbfc",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6961,
+      "control_index": 13662,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_8e4d41234e0be9",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6961,
+      "control_index": 13662,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_a3ebc2c85c264c",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4506,
+      "control_index": 1774,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_e7c88e3b4c6791",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13524,
+      "control_index": 4351,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_4a560b18a32cfa",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15227,
+      "control_index": 7560,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_3d9962b8e56e1b",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 15227,
+      "control_index": 7560,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_3a6b216fc87a28",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8464,
+      "control_index": 2177,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_86e9ed897c92fd",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 8464,
+      "control_index": 2177,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_f01fe7967e6734",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9835,
+      "control_index": 14673,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_9ed64d69f8a676",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10362,
+      "control_index": 15327,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_745ce454b89792",
+      "pid": "L9_E163_N111__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6077,
+      "control_index": 2404,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_646ffd79c2a411",
+      "pid": "L9_E163_N111__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6077,
+      "control_index": 2404,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_1356742b6cdd1e",
+      "pid": "L9_E163_N111__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 8517,
+      "control_index": 6116,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_7df8726ed592fa",
+      "pid": "L9_E163_N111__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 8517,
+      "control_index": 6116,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_a58ac0c6d84d1a",
+      "pid": "L9_E163_N111__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 12501,
+      "control_index": 7977,
+      "pole_column": 0
+    },
+    {
+      "case_id": "c_ee416f6effbe14",
+      "pid": "L14_E109_N459__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6012,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_dc6321b50a674a",
+      "pid": "L14_E109_N459__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6012,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_329c956641cd98",
+      "pid": "L14_E109_N459__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10494,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_86ff206b6b1f2a",
+      "pid": "L14_E109_N459__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10494,
+      "control_index": 3994,
+      "pole_column": 1
+    },
+    {
+      "case_id": "c_54512ff5c0596a",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15773,
+      "control_index": 4868,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_37710e02cefd07",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 15773,
+      "control_index": 4868,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_8ec721ccac83a4",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10204,
+      "control_index": 1679,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_caf0374ff27035",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 10204,
+      "control_index": 1679,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_de0a0fb20699a4",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11027,
+      "control_index": 7868,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_379faaa6061b9b",
+      "pid": "L24_E55_N465__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2848,
+      "control_index": 5858,
+      "pole_column": 3
+    },
+    {
+      "case_id": "c_7c7044fb26a15c",
+      "pid": "L30_E166_N405__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15819,
+      "control_index": 2858,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_c1074556666b78",
+      "pid": "L30_E166_N405__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 15819,
+      "control_index": 2858,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_133317bb3f454a",
+      "pid": "L30_E166_N405__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8038,
+      "control_index": 10146,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_9482a5804ff339",
+      "pid": "L30_E166_N405__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 8038,
+      "control_index": 10146,
+      "pole_column": 4
+    },
+    {
+      "case_id": "c_6e8ced0039b403",
+      "pid": "L36_E111_N308__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13800,
+      "control_index": 14520,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_fca5a2e7e17939",
+      "pid": "L36_E111_N308__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 13800,
+      "control_index": 14520,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_b07dcd929a54f0",
+      "pid": "L36_E111_N308__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9090,
+      "control_index": 13633,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_947972580cc1ac",
+      "pid": "L36_E111_N308__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 9090,
+      "control_index": 13633,
+      "pole_column": 5
+    },
+    {
+      "case_id": "c_857c25c62f0bce",
+      "pid": "L9_E238_N497__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14173,
+      "control_index": 6608,
+      "pole_column": 6
+    },
+    {
+      "case_id": "c_8f3bd70e668519",
+      "pid": "L9_E238_N497__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 14173,
+      "control_index": 6608,
+      "pole_column": 6
+    },
+    {
+      "case_id": "c_4f0fede29eac22",
+      "pid": "L14_E239_N142__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 14091,
+      "control_index": 10945,
+      "pole_column": 7
+    },
+    {
+      "case_id": "c_44ca306993e85f",
+      "pid": "L14_E239_N142__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 14091,
+      "control_index": 10945,
+      "pole_column": 7
+    },
+    {
+      "case_id": "c_aef3f2fa37f2c0",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 3687,
+      "control_index": 13217,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_cdd0df9f96e122",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 3687,
+      "control_index": 13217,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_f17e9c8f89bca4",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 16081,
+      "control_index": 204,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_517578f09dddb0",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 16081,
+      "control_index": 204,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_d6454ad48aa451",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 321,
+      "control_index": 2037,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_5f066f28056c75",
+      "pid": "L19_E38_N59__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4990,
+      "control_index": 4050,
+      "pole_column": 8
+    },
+    {
+      "case_id": "c_f37c7941a7478e",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5386,
+      "control_index": 746,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_888c3187f7e529",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 5386,
+      "control_index": 746,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_638be4c0491e71",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 792,
+      "control_index": 13575,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_b642440e70840d",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 792,
+      "control_index": 13575,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_18f6f4d0c02749",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 484,
+      "control_index": 789,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_86d8e0ab5cfc75",
+      "pid": "L24_E65_N156__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13659,
+      "control_index": 5279,
+      "pole_column": 9
+    },
+    {
+      "case_id": "c_73fe4f45c321b1",
+      "pid": "L30_E24_N187__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6647,
+      "control_index": 12611,
+      "pole_column": 10
+    },
+    {
+      "case_id": "c_65db20fbf08586",
+      "pid": "L30_E24_N187__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 6647,
+      "control_index": 12611,
+      "pole_column": 10
+    },
+    {
+      "case_id": "c_9205ef08ca773a",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 2144,
+      "control_index": 9843,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_31e29f44c272f5",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 2144,
+      "control_index": 9843,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_7810753c0c9551",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1433,
+      "control_index": 2119,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_bf29adf29e7fdb",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 1433,
+      "control_index": 2119,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_b11f345cba15e6",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 353,
+      "control_index": 12716,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_f497f8fed67774",
+      "pid": "L36_E22_N7__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 3469,
+      "control_index": 10343,
+      "pole_column": 11
+    },
+    {
+      "case_id": "c_e781f9c295d15e",
+      "pid": "L9_E173_N429__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 834,
+      "control_index": 14592,
+      "pole_column": 12
+    },
+    {
+      "case_id": "c_4977497d874f76",
+      "pid": "L9_E173_N429__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 834,
+      "control_index": 14592,
+      "pole_column": 12
+    },
+    {
+      "case_id": "c_d66d729c0484d4",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 985,
+      "control_index": 13373,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_0699d3b62b7e3a",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 985,
+      "control_index": 13373,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_906b1d231665ed",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13482,
+      "control_index": 1655,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_16df4cb9c3cc34",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 13482,
+      "control_index": 1655,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_fe10650a07193d",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10336,
+      "control_index": 1930,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_24bf8f97a439f2",
+      "pid": "L14_E199_N300__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 9067,
+      "control_index": 13663,
+      "pole_column": 13
+    },
+    {
+      "case_id": "c_29ccc4da9f7e86",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8603,
+      "control_index": 14612,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_7080627902fc8c",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 8603,
+      "control_index": 14612,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_7c97625b8e9384",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 11455,
+      "control_index": 13070,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_8da38355d1aa0a",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 11455,
+      "control_index": 13070,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_7449fca318d1e3",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7654,
+      "control_index": 5398,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_7ebeee6cd4302b",
+      "pid": "L19_E97_N24__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 14710,
+      "control_index": 10965,
+      "pole_column": 14
+    },
+    {
+      "case_id": "c_e575977c8b1782",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 16276,
+      "control_index": 10006,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_0f92d1129358ca",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 16276,
+      "control_index": 10006,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_0d048f233769e3",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5370,
+      "control_index": 7298,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_55056329ad1068",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5370,
+      "control_index": 7298,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_08f54b150d6e63",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7395,
+      "control_index": 9951,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_93592e9591ff17",
+      "pid": "L24_E51_N268__pos",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10151,
+      "control_index": 10635,
+      "pole_column": 15
+    },
+    {
+      "case_id": "c_c63f8bb7c9f5be",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10918,
+      "control_index": 1990,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_f41e8686a1e11e",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 10918,
+      "control_index": 1990,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_22a0754df30c31",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2016,
+      "control_index": 3249,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_86afed2a8f45e1",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 2016,
+      "control_index": 3249,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_0e3e1f2f7369fc",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7050,
+      "control_index": 3141,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_bddcb720b0ccf0",
+      "pid": "L9_E111_N321__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 931,
+      "control_index": 12767,
+      "pole_column": 16
+    },
+    {
+      "case_id": "c_f9f22d85ea86bb",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 5896,
+      "control_index": 14239,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_40b1fefe880627",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5896,
+      "control_index": 14239,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_fc2326ecdee6d6",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10656,
+      "control_index": 7589,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_f32eeb801dd690",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 10656,
+      "control_index": 7589,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_e28bae55179e51",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13067,
+      "control_index": 7071,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_b84b4e1a5e3bac",
+      "pid": "L14_E149_N413__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5408,
+      "control_index": 7657,
+      "pole_column": 17
+    },
+    {
+      "case_id": "c_01f5dc775b7056",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 8329,
+      "control_index": 9957,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_ee74ebcc07c173",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 8329,
+      "control_index": 9957,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_afaa41e972db83",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9971,
+      "control_index": 8426,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_eaff4ca521805b",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 9971,
+      "control_index": 8426,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_8db0e09178f282",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2805,
+      "control_index": 13575,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_4c75d2efeffba7",
+      "pid": "L19_E41_N411__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4765,
+      "control_index": 7575,
+      "pole_column": 18
+    },
+    {
+      "case_id": "c_4d4125c783a6bc",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 12462,
+      "control_index": 10637,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_6bc351a5faa0f4",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 12462,
+      "control_index": 10637,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_8e0af546c87da4",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4903,
+      "control_index": 10428,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_118764e5249283",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 4903,
+      "control_index": 10428,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_f774df627921f3",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 12976,
+      "control_index": 14139,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_1deb23c717e823",
+      "pid": "L24_E242_N455__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4517,
+      "control_index": 10823,
+      "pole_column": 19
+    },
+    {
+      "case_id": "c_38607bd87134e7",
+      "pid": "L30_E98_N323__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7449,
+      "control_index": 9618,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_bd270d2b9d7608",
+      "pid": "L30_E98_N323__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 7449,
+      "control_index": 9618,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_1043c0cdc8f81c",
+      "pid": "L30_E98_N323__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 66,
+      "control_index": 7585,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_c9201163af4841",
+      "pid": "L30_E98_N323__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 66,
+      "control_index": 7585,
+      "pole_column": 20
+    },
+    {
+      "case_id": "c_40ebc2adfc5cf5",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5268,
+      "control_index": 6350,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_065159ee7b24bc",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 5268,
+      "control_index": 6350,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_b7b83da89104a3",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 216,
+      "control_index": 15612,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_a97c02d28da265",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 216,
+      "control_index": 15612,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_53e6da4f3324ff",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 9719,
+      "control_index": 12208,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_1e18b2d23a4ab4",
+      "pid": "L36_E207_N204__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4027,
+      "control_index": 1725,
+      "pole_column": 21
+    },
+    {
+      "case_id": "c_24e1adbc369b0f",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13790,
+      "control_index": 10168,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_2dd55f79b1bee5",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 13790,
+      "control_index": 10168,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_4f14faf9bb497d",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6121,
+      "control_index": 7547,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_44beb79f93f995",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6121,
+      "control_index": 7547,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_72a9c413d364d6",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5554,
+      "control_index": 3291,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_e80e37b6eade08",
+      "pid": "L9_E79_N375__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 7238,
+      "control_index": 13372,
+      "pole_column": 22
+    },
+    {
+      "case_id": "c_83fca803c48162",
+      "pid": "L14_E34_N361__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11077,
+      "control_index": 14155,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_05e2f76d240da6",
+      "pid": "L14_E34_N361__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 11077,
+      "control_index": 14155,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_695ba4a0394d6d",
+      "pid": "L14_E34_N361__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6837,
+      "control_index": 10934,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_909f844458d4c2",
+      "pid": "L14_E34_N361__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 6837,
+      "control_index": 10934,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_87ab1b950852f0",
+      "pid": "L14_E34_N361__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 15536,
+      "control_index": 5965,
+      "pole_column": 23
+    },
+    {
+      "case_id": "c_86d60e6d08d0b9",
+      "pid": "L19_E242_N433__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13677,
+      "control_index": 1655,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_9da98da67337fc",
+      "pid": "L19_E242_N433__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 13677,
+      "control_index": 1655,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_b02e08247a62dd",
+      "pid": "L19_E242_N433__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1135,
+      "control_index": 6799,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_84dd7b2f67074f",
+      "pid": "L19_E242_N433__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 1135,
+      "control_index": 6799,
+      "pole_column": 24
+    },
+    {
+      "case_id": "c_440137abb50e6e",
+      "pid": "L24_E79_N137__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4557,
+      "control_index": 8091,
+      "pole_column": 25
+    },
+    {
+      "case_id": "c_6eb0717b410bb3",
+      "pid": "L24_E79_N137__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 4557,
+      "control_index": 8091,
+      "pole_column": 25
+    },
+    {
+      "case_id": "c_bab4fd1554ddfe",
+      "pid": "L30_E26_N182__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14283,
+      "control_index": 15954,
+      "pole_column": 26
+    },
+    {
+      "case_id": "c_a436f28dd59977",
+      "pid": "L30_E26_N182__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 14283,
+      "control_index": 15954,
+      "pole_column": 26
+    },
+    {
+      "case_id": "c_d1dd580489443d",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11840,
+      "control_index": 4768,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_f7df1c52ae3019",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 11840,
+      "control_index": 4768,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_6b3b137c322301",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1918,
+      "control_index": 7153,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_788a9b2f6274db",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 1918,
+      "control_index": 7153,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_1b347967226e92",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15190,
+      "control_index": 10151,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_b158763647b09c",
+      "pid": "L36_E24_N167__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7753,
+      "control_index": 8920,
+      "pole_column": 27
+    },
+    {
+      "case_id": "c_49a1febd252e1c",
+      "pid": "L14_E129_N371__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10335,
+      "control_index": 6555,
+      "pole_column": 29
+    },
+    {
+      "case_id": "c_cfe4fdddfc30b9",
+      "pid": "L14_E129_N371__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 10335,
+      "control_index": 6555,
+      "pole_column": 29
+    },
+    {
+      "case_id": "c_b9775437f8ea97",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10324,
+      "control_index": 4272,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_cd4da83cc66516",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 10324,
+      "control_index": 4272,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_05e96a9d079f7a",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4791,
+      "control_index": 15075,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_1d241e11ca23f0",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 4791,
+      "control_index": 15075,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_12ed2beb0f82bd",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8431,
+      "control_index": 1717,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_a57915c52a2994",
+      "pid": "L19_E31_N326__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4505,
+      "control_index": 4871,
+      "pole_column": 30
+    },
+    {
+      "case_id": "c_ab3db786a8349e",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 8319,
+      "control_index": 14308,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_1fbd41df936ea4",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "B",
+      "fire_index": 8319,
+      "control_index": 14308,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_aa62901d1cfa7e",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9830,
+      "control_index": 8275,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_790bc9b676413b",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "shuffled_description",
+      "correct": "A",
+      "fire_index": 9830,
+      "control_index": 8275,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_70988e1bfed18a",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 15568,
+      "control_index": 9881,
+      "pole_column": 31
+    },
+    {
+      "case_id": "c_6d824caa32725e",
+      "pid": "L24_E42_N33__neg",
+      "precision": "fp8",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15277,
+      "control_index": 9810,
+      "pole_column": 31
+    }
+  ],
+  "fixed_bf16_pairs": [
+    {
+      "case_id": "c_a0c1bb4a414941",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6077,
+      "control_index": 6464,
+      "pole_column": 0,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.059207916259765625,
+      "fp8_control_score": 0.00720977783203125
+    },
+    {
+      "case_id": "c_f88e607cd903c8",
+      "pid": "L9_E163_N111__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8517,
+      "control_index": 2394,
+      "pole_column": 0,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.027896881103515625,
+      "fp8_control_score": -0.00221407413482666
+    },
+    {
+      "case_id": "c_ee416f6effbe14",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6012,
+      "control_index": 3994,
+      "pole_column": 1,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.014691352844238281,
+      "fp8_control_score": -0.00011647120118141174
+    },
+    {
+      "case_id": "c_329c956641cd98",
+      "pid": "L14_E109_N459__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10494,
+      "control_index": 3994,
+      "pole_column": 1,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.02658843994140625,
+      "fp8_control_score": -0.00011647120118141174
+    },
+    {
+      "case_id": "c_8a5f8ce2af6ac2",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11876,
+      "control_index": 763,
+      "pole_column": 3,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.035430908203125,
+      "fp8_control_score": -0.003690004348754883
+    },
+    {
+      "case_id": "c_0fb25cc804b9af",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11660,
+      "control_index": 9641,
+      "pole_column": 3,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.031688690185546875,
+      "fp8_control_score": 0.002515077590942383
+    },
+    {
+      "case_id": "c_d8d2404af3352d",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 3709,
+      "control_index": 1913,
+      "pole_column": 3,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0246429443359375,
+      "fp8_control_score": -0.0176544189453125
+    },
+    {
+      "case_id": "c_47d91a57c8013d",
+      "pid": "L24_E55_N465__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10204,
+      "control_index": 14632,
+      "pole_column": 3,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0382537841796875,
+      "fp8_control_score": -0.010515213012695312
+    },
+    {
+      "case_id": "c_92b48c70b4c8b6",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9887,
+      "control_index": 8128,
+      "pole_column": 4,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.02579784393310547,
+      "fp8_control_score": 0.009471893310546875
+    },
+    {
+      "case_id": "c_aa289056a918d4",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 12996,
+      "control_index": 16097,
+      "pole_column": 4,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": false,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.0,
+      "fp8_control_score": 0.00011545419692993164
+    },
+    {
+      "case_id": "c_78c8b0de7d9eb3",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 8038,
+      "control_index": 6439,
+      "pole_column": 4,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04639625549316406,
+      "fp8_control_score": 0.01127004623413086
+    },
+    {
+      "case_id": "c_b0fe3b890c94b7",
+      "pid": "L30_E166_N405__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9564,
+      "control_index": 10568,
+      "pole_column": 4,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.02899932861328125,
+      "fp8_control_score": -0.001605212688446045
+    },
+    {
+      "case_id": "c_c1c1aedc4bca71",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13729,
+      "control_index": 5433,
+      "pole_column": 5,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.016860008239746094,
+      "fp8_control_score": -0.010841846466064453
+    },
+    {
+      "case_id": "c_7ac6a5bcb25627",
+      "pid": "L36_E111_N308__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8844,
+      "control_index": 14521,
+      "pole_column": 5,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": false,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.0,
+      "fp8_control_score": -0.030925750732421875
+    },
+    {
+      "case_id": "c_1975d8bd5bedf2",
+      "pid": "L9_E238_N497__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14173,
+      "control_index": 5474,
+      "pole_column": 6,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.01543426513671875,
+      "fp8_control_score": 0.000979006290435791
+    },
+    {
+      "case_id": "c_4452c36e2a8fe8",
+      "pid": "L14_E239_N142__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 14091,
+      "control_index": 10989,
+      "pole_column": 7,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.043064117431640625,
+      "fp8_control_score": -0.007600307464599609
+    },
+    {
+      "case_id": "c_0d9b13e2d0a6df",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4042,
+      "control_index": 874,
+      "pole_column": 8,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.07356643676757812,
+      "fp8_control_score": 0.008998394012451172
+    },
+    {
+      "case_id": "c_b8801ddf1b78e8",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 321,
+      "control_index": 5062,
+      "pole_column": 8,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.037479400634765625,
+      "fp8_control_score": 0.0031284093856811523
+    },
+    {
+      "case_id": "c_33eb5001c1fb98",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7105,
+      "control_index": 2374,
+      "pole_column": 8,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.079742431640625,
+      "fp8_control_score": 0.004177093505859375
+    },
+    {
+      "case_id": "c_21788b090d116b",
+      "pid": "L19_E38_N59__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1211,
+      "control_index": 6771,
+      "pole_column": 8,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.056298255920410156,
+      "fp8_control_score": -0.0019442439079284668
+    },
+    {
+      "case_id": "c_575cdbb0408561",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13659,
+      "control_index": 749,
+      "pole_column": 9,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03185272216796875,
+      "fp8_control_score": -0.014356613159179688
+    },
+    {
+      "case_id": "c_13c13c665a3fbd",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 5386,
+      "control_index": 13541,
+      "pole_column": 9,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.031891822814941406,
+      "fp8_control_score": 0.0037696361541748047
+    },
+    {
+      "case_id": "c_18f6f4d0c02749",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 484,
+      "control_index": 789,
+      "pole_column": 9,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03255462646484375,
+      "fp8_control_score": 0.0048046112060546875
+    },
+    {
+      "case_id": "c_a9fa31d44393ad",
+      "pid": "L24_E65_N156__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 790,
+      "control_index": 6581,
+      "pole_column": 9,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.02917766571044922,
+      "fp8_control_score": -0.020702362060546875
+    },
+    {
+      "case_id": "c_a529e32f687304",
+      "pid": "L30_E24_N187__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6521,
+      "control_index": 14625,
+      "pole_column": 10,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.018924713134765625,
+      "fp8_control_score": 0.0013626813888549805
+    },
+    {
+      "case_id": "c_6d6563e4724460",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2144,
+      "control_index": 9841,
+      "pole_column": 11,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04802513122558594,
+      "fp8_control_score": -0.0025534629821777344
+    },
+    {
+      "case_id": "c_2ca710ecad50e4",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1433,
+      "control_index": 2003,
+      "pole_column": 11,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.049449920654296875,
+      "fp8_control_score": -0.006244182586669922
+    },
+    {
+      "case_id": "c_0bcc34287eaa93",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 353,
+      "control_index": 12688,
+      "pole_column": 11,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.040663719177246094,
+      "fp8_control_score": 0.0026445388793945312
+    },
+    {
+      "case_id": "c_2db593f8af8c5b",
+      "pid": "L36_E22_N7__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 3469,
+      "control_index": 10225,
+      "pole_column": 11,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.05290985107421875,
+      "fp8_control_score": 0.025421142578125
+    },
+    {
+      "case_id": "c_209a710d453c03",
+      "pid": "L9_E173_N429__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 834,
+      "control_index": 7370,
+      "pole_column": 12,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.017639636993408203,
+      "fp8_control_score": -0.00029152631759643555
+    },
+    {
+      "case_id": "c_47f3c1375c6fd9",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9067,
+      "control_index": 13783,
+      "pole_column": 13,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0415802001953125,
+      "fp8_control_score": -0.044068336486816406
+    },
+    {
+      "case_id": "c_70335ab09611f9",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 980,
+      "control_index": 5100,
+      "pole_column": 13,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.03190040588378906,
+      "fp8_control_score": 0.008260726928710938
+    },
+    {
+      "case_id": "c_2e546bf2d07506",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7956,
+      "control_index": 11359,
+      "pole_column": 13,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": false,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.0,
+      "fp8_control_score": -0.008814811706542969
+    },
+    {
+      "case_id": "c_79b14ce7d47b7d",
+      "pid": "L14_E199_N300__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13482,
+      "control_index": 14593,
+      "pole_column": 13,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.07642364501953125,
+      "fp8_control_score": 0.0008823275566101074
+    },
+    {
+      "case_id": "c_d7df0730effa22",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11663,
+      "control_index": 8512,
+      "pole_column": 14,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.017671585083007812,
+      "fp8_control_score": 0.0012777745723724365
+    },
+    {
+      "case_id": "c_015635c734e68e",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10218,
+      "control_index": 11485,
+      "pole_column": 14,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": false,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.0,
+      "fp8_control_score": -4.490464925765991e-05
+    },
+    {
+      "case_id": "c_5b20961e26d98a",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8586,
+      "control_index": 14708,
+      "pole_column": 14,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.029272079467773438,
+      "fp8_control_score": -0.002100706100463867
+    },
+    {
+      "case_id": "c_86f12c4a698382",
+      "pid": "L19_E97_N24__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11135,
+      "control_index": 11331,
+      "pole_column": 14,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.021312713623046875,
+      "fp8_control_score": 0.004035472869873047
+    },
+    {
+      "case_id": "c_53a3b8ff73f00e",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5370,
+      "control_index": 7285,
+      "pole_column": 15,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.016698837280273438,
+      "fp8_control_score": 0.003923535346984863
+    },
+    {
+      "case_id": "c_e9622fde99bc8e",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10178,
+      "control_index": 16288,
+      "pole_column": 15,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.013557672500610352,
+      "fp8_control_score": 0.0
+    },
+    {
+      "case_id": "c_a96efb431abb09",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 7395,
+      "control_index": 6613,
+      "pole_column": 15,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.021335601806640625,
+      "fp8_control_score": 0.0019408464431762695
+    },
+    {
+      "case_id": "c_3334434e978e50",
+      "pid": "L24_E51_N268__pos",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 16276,
+      "control_index": 10562,
+      "pole_column": 15,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.02140045166015625,
+      "fp8_control_score": 0.000629425048828125
+    },
+    {
+      "case_id": "c_305ee0777a8c7f",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10945,
+      "control_index": 14465,
+      "pole_column": 16,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.06080055236816406,
+      "fp8_control_score": 0.0043201446533203125
+    },
+    {
+      "case_id": "c_b778353da390ee",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1700,
+      "control_index": 14420,
+      "pole_column": 16,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04566192626953125,
+      "fp8_control_score": 0.0005987286567687988
+    },
+    {
+      "case_id": "c_2aecb6650bb29a",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7050,
+      "control_index": 771,
+      "pole_column": 16,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.10181427001953125,
+      "fp8_control_score": 0.0009107887744903564
+    },
+    {
+      "case_id": "c_d66b61642e12e2",
+      "pid": "L9_E111_N321__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 931,
+      "control_index": 10879,
+      "pole_column": 16,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.06392669677734375,
+      "fp8_control_score": 0.0025014877319335938
+    },
+    {
+      "case_id": "c_b41c1d1c400864",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 5408,
+      "control_index": 1487,
+      "pole_column": 17,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.012810707092285156,
+      "fp8_control_score": -0.00020648539066314697
+    },
+    {
+      "case_id": "c_b5c338e4e7f75e",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13130,
+      "control_index": 15708,
+      "pole_column": 17,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.008389949798583984,
+      "fp8_control_score": 5.894899368286133e-05
+    },
+    {
+      "case_id": "c_2d30a3cec5619c",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 7567,
+      "control_index": 10190,
+      "pole_column": 17,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.012828826904296875,
+      "fp8_control_score": -0.023632049560546875
+    },
+    {
+      "case_id": "c_2b4fae910d044c",
+      "pid": "L14_E149_N413__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15134,
+      "control_index": 1413,
+      "pole_column": 17,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.01952648162841797,
+      "fp8_control_score": 0.001775979995727539
+    },
+    {
+      "case_id": "c_8f2ac70b6f3a3b",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9975,
+      "control_index": 4957,
+      "pole_column": 18,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.010630607604980469,
+      "fp8_control_score": 0.0
+    },
+    {
+      "case_id": "c_387f2529d24f00",
+      "pid": "L19_E41_N411__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8452,
+      "control_index": 14819,
+      "pole_column": 18,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.01348114013671875,
+      "fp8_control_score": -0.00012271106243133545
+    },
+    {
+      "case_id": "c_da7e163ed093df",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 3547,
+      "control_index": 2132,
+      "pole_column": 19,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.08211135864257812,
+      "fp8_control_score": 0.0028456449508666992
+    },
+    {
+      "case_id": "c_a2b029935dd74f",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5489,
+      "control_index": 11494,
+      "pole_column": 19,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.07965087890625,
+      "fp8_control_score": 0.02201557159423828
+    },
+    {
+      "case_id": "c_3f0fc8339f0fe3",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 2520,
+      "control_index": 15202,
+      "pole_column": 19,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0573272705078125,
+      "fp8_control_score": 0.00440669059753418
+    },
+    {
+      "case_id": "c_4d187f024a58a7",
+      "pid": "L24_E242_N455__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 4903,
+      "control_index": 7574,
+      "pole_column": 19,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.1365509033203125,
+      "fp8_control_score": 0.0011849403381347656
+    },
+    {
+      "case_id": "c_a945889945e01d",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7316,
+      "control_index": 9341,
+      "pole_column": 20,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.07836723327636719,
+      "fp8_control_score": -0.01946735382080078
+    },
+    {
+      "case_id": "c_63a0eeaf0ad064",
+      "pid": "L30_E98_N323__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 66,
+      "control_index": 7618,
+      "pole_column": 20,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.16937255859375,
+      "fp8_control_score": -0.007664680480957031
+    },
+    {
+      "case_id": "c_5c4b3877980444",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4688,
+      "control_index": 6538,
+      "pole_column": 21,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.023682117462158203,
+      "fp8_control_score": -0.01031494140625
+    },
+    {
+      "case_id": "c_7ccacd1bf8d370",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 911,
+      "control_index": 15985,
+      "pole_column": 21,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.064361572265625,
+      "fp8_control_score": -0.0609283447265625
+    },
+    {
+      "case_id": "c_d3b0bf5b1cba7e",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 9712,
+      "control_index": 12223,
+      "pole_column": 21,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.08526229858398438,
+      "fp8_control_score": 0.002453327178955078
+    },
+    {
+      "case_id": "c_b479ad8d169dd1",
+      "pid": "L36_E207_N204__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 5268,
+      "control_index": 1725,
+      "pole_column": 21,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.07032203674316406,
+      "fp8_control_score": 0.0201873779296875
+    },
+    {
+      "case_id": "c_4aaae280e820c0",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13512,
+      "control_index": 6720,
+      "pole_column": 22,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.02007007598876953,
+      "fp8_control_score": -0.005003929138183594
+    },
+    {
+      "case_id": "c_46f377b6fef0ef",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6127,
+      "control_index": 7484,
+      "pole_column": 22,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.026275634765625,
+      "fp8_control_score": -0.0015628337860107422
+    },
+    {
+      "case_id": "c_57baf59811b6fe",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 1910,
+      "control_index": 7485,
+      "pole_column": 22,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.015912532806396484,
+      "fp8_control_score": 0.0026035308837890625
+    },
+    {
+      "case_id": "c_f44e2e2fe98717",
+      "pid": "L9_E79_N375__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 7265,
+      "control_index": 13570,
+      "pole_column": 22,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.02167224884033203,
+      "fp8_control_score": 0.0023431777954101562
+    },
+    {
+      "case_id": "c_ce33afd3e0bb9b",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 11027,
+      "control_index": 3347,
+      "pole_column": 23,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03387451171875,
+      "fp8_control_score": 0.0
+    },
+    {
+      "case_id": "c_92ecc8116952fe",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6837,
+      "control_index": 3708,
+      "pole_column": 23,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.06490516662597656,
+      "fp8_control_score": 0.0
+    },
+    {
+      "case_id": "c_bbc51bae3b669d",
+      "pid": "L14_E34_N361__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15727,
+      "control_index": 9411,
+      "pole_column": 23,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.01813793182373047,
+      "fp8_control_score": 0.0018596649169921875
+    },
+    {
+      "case_id": "c_86d60e6d08d0b9",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 13677,
+      "control_index": 1655,
+      "pole_column": 24,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0492095947265625,
+      "fp8_control_score": 0.006422281265258789
+    },
+    {
+      "case_id": "c_471a848e691407",
+      "pid": "L19_E242_N433__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1135,
+      "control_index": 6871,
+      "pole_column": 24,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.0458984375,
+      "fp8_control_score": 0.008256912231445312
+    },
+    {
+      "case_id": "c_bab4fd1554ddfe",
+      "pid": "L30_E26_N182__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 14283,
+      "control_index": 15954,
+      "pole_column": 26,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.028502464294433594,
+      "fp8_control_score": 0.0041904449462890625
+    },
+    {
+      "case_id": "c_37301e7fa6137b",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9930,
+      "control_index": 4737,
+      "pole_column": 27,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.06283187866210938,
+      "fp8_control_score": -0.0005062073469161987
+    },
+    {
+      "case_id": "c_d375f508ac498a",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 1918,
+      "control_index": 7128,
+      "pole_column": 27,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.05179882049560547,
+      "fp8_control_score": -0.007076740264892578
+    },
+    {
+      "case_id": "c_3e211150036d43",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13579,
+      "control_index": 10084,
+      "pole_column": 27,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.05885124206542969,
+      "fp8_control_score": -0.019626617431640625
+    },
+    {
+      "case_id": "c_ef6eca90458d3b",
+      "pid": "L36_E24_N167__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15190,
+      "control_index": 8342,
+      "pole_column": 27,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04060935974121094,
+      "fp8_control_score": -0.001958191394805908
+    },
+    {
+      "case_id": "c_349b165c2e6240",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 16147,
+      "control_index": 6466,
+      "pole_column": 28,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.015008926391601562,
+      "fp8_control_score": -0.000671684741973877
+    },
+    {
+      "case_id": "c_604992dcf38d4a",
+      "pid": "L9_E177_N137__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 6469,
+      "control_index": 7787,
+      "pole_column": 28,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.017284393310546875,
+      "fp8_control_score": -0.008748769760131836
+    },
+    {
+      "case_id": "c_220ec1109ff334",
+      "pid": "L14_E129_N371__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 10335,
+      "control_index": 6238,
+      "pole_column": 29,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.013700008392333984,
+      "fp8_control_score": -0.033397674560546875
+    },
+    {
+      "case_id": "c_6a461974fdd6f8",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10366,
+      "control_index": 4275,
+      "pole_column": 30,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03380298614501953,
+      "fp8_control_score": -0.0016063451766967773
+    },
+    {
+      "case_id": "c_8749f9c925fbfc",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 6961,
+      "control_index": 13662,
+      "pole_column": 30,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03730201721191406,
+      "fp8_control_score": -0.00024259090423583984
+    },
+    {
+      "case_id": "c_a3ebc2c85c264c",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 4506,
+      "control_index": 1774,
+      "pole_column": 30,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04122734069824219,
+      "fp8_control_score": 0.00015807151794433594
+    },
+    {
+      "case_id": "c_e7c88e3b4c6791",
+      "pid": "L19_E31_N326__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 13524,
+      "control_index": 4351,
+      "pole_column": 30,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.03490734100341797,
+      "fp8_control_score": 0.0006407499313354492
+    },
+    {
+      "case_id": "c_4a560b18a32cfa",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 15227,
+      "control_index": 7560,
+      "pole_column": 31,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.020842552185058594,
+      "fp8_control_score": 0.0
+    },
+    {
+      "case_id": "c_3a6b216fc87a28",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "A",
+      "fire_index": 8464,
+      "control_index": 2177,
+      "pole_column": 31,
+      "fp8_ordering_correct": "A",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.025414466857910156,
+      "fp8_control_score": -5.3783878684043884e-05
+    },
+    {
+      "case_id": "c_f01fe7967e6734",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 9835,
+      "control_index": 14673,
+      "pole_column": 31,
+      "fp8_ordering_correct": "B",
+      "fp8_original_fire_routed": true,
+      "fp8_original_fire_still_above_q97": true,
+      "fp8_fire_score": 0.04789161682128906,
+      "fp8_control_score": -0.00020290911197662354
+    },
+    {
+      "case_id": "c_9ed64d69f8a676",
+      "pid": "L24_E42_N33__neg",
+      "precision": "bf16",
+      "kind": "released",
+      "correct": "B",
+      "fire_index": 10362,
+      "control_index": 15327,
+      "pole_column": 31,
+      "fp8_ordering_correct": null,
+      "fp8_original_fire_routed": false,
+      "fp8_original_fire_still_above_q97": false,
+      "fp8_fire_score": 0.0,
+      "fp8_control_score": 0.0
+    }
+  ],
+  "eligibility": [
+    {
+      "precision": "bf16",
+      "pid": "L9_E163_N111__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 3
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E109_N459__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E125_N207__pos",
+      "pairs": 0,
+      "heldout_strong_positions": 0
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E55_N465__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 42
+    },
+    {
+      "precision": "bf16",
+      "pid": "L30_E166_N405__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "bf16",
+      "pid": "L36_E111_N308__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 26
+    },
+    {
+      "precision": "bf16",
+      "pid": "L9_E238_N497__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 24
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E239_N142__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 3
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E38_N59__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 69
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E65_N156__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "bf16",
+      "pid": "L30_E24_N187__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "bf16",
+      "pid": "L36_E22_N7__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "bf16",
+      "pid": "L9_E173_N429__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E199_N300__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 23
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E97_N24__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 27
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E51_N268__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "bf16",
+      "pid": "L9_E111_N321__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 17
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E149_N413__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 8
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E41_N411__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 5
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E242_N455__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 18
+    },
+    {
+      "precision": "bf16",
+      "pid": "L30_E98_N323__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 16
+    },
+    {
+      "precision": "bf16",
+      "pid": "L36_E207_N204__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 10
+    },
+    {
+      "precision": "bf16",
+      "pid": "L9_E79_N375__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 53
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E34_N361__neg",
+      "pairs": 3,
+      "heldout_strong_positions": 15
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E242_N433__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E79_N137__neg",
+      "pairs": 0,
+      "heldout_strong_positions": 0
+    },
+    {
+      "precision": "bf16",
+      "pid": "L30_E26_N182__neg",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "bf16",
+      "pid": "L36_E24_N167__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 43
+    },
+    {
+      "precision": "bf16",
+      "pid": "L9_E177_N137__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "bf16",
+      "pid": "L14_E129_N371__neg",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "bf16",
+      "pid": "L19_E31_N326__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 107
+    },
+    {
+      "precision": "bf16",
+      "pid": "L24_E42_N33__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 28
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E163_N111__pos",
+      "pairs": 3,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E109_N459__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E125_N207__pos",
+      "pairs": 0,
+      "heldout_strong_positions": 0
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E55_N465__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 47
+    },
+    {
+      "precision": "fp8",
+      "pid": "L30_E166_N405__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "fp8",
+      "pid": "L36_E111_N308__pos",
+      "pairs": 2,
+      "heldout_strong_positions": 17
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E238_N497__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 24
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E239_N142__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 3
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E38_N59__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 64
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E65_N156__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 5
+    },
+    {
+      "precision": "fp8",
+      "pid": "L30_E24_N187__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "fp8",
+      "pid": "L36_E22_N7__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 4
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E173_N429__pos",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E199_N300__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 21
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E97_N24__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 18
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E51_N268__pos",
+      "pairs": 4,
+      "heldout_strong_positions": 5
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E111_N321__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 16
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E149_N413__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 11
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E41_N411__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 9
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E242_N455__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 21
+    },
+    {
+      "precision": "fp8",
+      "pid": "L30_E98_N323__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 20
+    },
+    {
+      "precision": "fp8",
+      "pid": "L36_E207_N204__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 10
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E79_N375__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 44
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E34_N361__neg",
+      "pairs": 3,
+      "heldout_strong_positions": 13
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E242_N433__neg",
+      "pairs": 2,
+      "heldout_strong_positions": 2
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E79_N137__neg",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "fp8",
+      "pid": "L30_E26_N182__neg",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "fp8",
+      "pid": "L36_E24_N167__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 42
+    },
+    {
+      "precision": "fp8",
+      "pid": "L9_E177_N137__neg",
+      "pairs": 0,
+      "heldout_strong_positions": 0
+    },
+    {
+      "precision": "fp8",
+      "pid": "L14_E129_N371__neg",
+      "pairs": 1,
+      "heldout_strong_positions": 1
+    },
+    {
+      "precision": "fp8",
+      "pid": "L19_E31_N326__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 108
+    },
+    {
+      "precision": "fp8",
+      "pid": "L24_E42_N33__neg",
+      "pairs": 4,
+      "heldout_strong_positions": 30
+    }
+  ],
+  "thresholds": {
+    "bf16|L9_E163_N111__pos": {
+      "q90": 0.00929746627807617,
+      "q97": 0.01584053039550781,
+      "routed_calibration_tokens": 937
+    },
+    "bf16|L14_E109_N459__pos": {
+      "q90": 0.004017841815948489,
+      "q97": 0.012006707191467288,
+      "routed_calibration_tokens": 124
+    },
+    "bf16|L19_E125_N207__pos": {
+      "q90": 0.014586639404296876,
+      "q97": 0.02836625099182118,
+      "routed_calibration_tokens": 1322
+    },
+    "bf16|L24_E55_N465__pos": {
+      "q90": 0.01231307983398438,
+      "q97": 0.02476051330566405,
+      "routed_calibration_tokens": 4157
+    },
+    "bf16|L30_E166_N405__pos": {
+      "q90": 0.017630720138549803,
+      "q97": 0.029723243713378908,
+      "routed_calibration_tokens": 414
+    },
+    "bf16|L36_E111_N308__pos": {
+      "q90": 0.004264354705810576,
+      "q97": 0.014231872558593739,
+      "routed_calibration_tokens": 135
+    },
+    "bf16|L9_E238_N497__pos": {
+      "q90": 0.006708860397338867,
+      "q97": 0.012829933166503904,
+      "routed_calibration_tokens": 563
+    },
+    "bf16|L14_E239_N142__pos": {
+      "q90": 0.015562057495117188,
+      "q97": 0.03395891189575195,
+      "routed_calibration_tokens": 2251
+    },
+    "bf16|L19_E38_N59__pos": {
+      "q90": 0.015116119384765614,
+      "q97": 0.03064300537109378,
+      "routed_calibration_tokens": 3155
+    },
+    "bf16|L24_E65_N156__pos": {
+      "q90": 0.010393381118774414,
+      "q97": 0.024221992492675738,
+      "routed_calibration_tokens": 1206
+    },
+    "bf16|L30_E24_N187__pos": {
+      "q90": 0.016597270965576172,
+      "q97": 0.032091093063354476,
+      "routed_calibration_tokens": 766
+    },
+    "bf16|L36_E22_N7__pos": {
+      "q90": 0.02257680892944336,
+      "q97": 0.041016578674316406,
+      "routed_calibration_tokens": 426
+    },
+    "bf16|L9_E173_N429__pos": {
+      "q90": 0.008178114891052246,
+      "q97": 0.013780736923217771,
+      "routed_calibration_tokens": 646
+    },
+    "bf16|L14_E199_N300__pos": {
+      "q90": 0.01753091812133789,
+      "q97": 0.03580017089843741,
+      "routed_calibration_tokens": 2611
+    },
+    "bf16|L19_E97_N24__pos": {
+      "q90": 0.011439990997314447,
+      "q97": 0.01988732814788818,
+      "routed_calibration_tokens": 892
+    },
+    "bf16|L24_E51_N268__pos": {
+      "q90": 0.004035854339599611,
+      "q97": 0.007651414871215813,
+      "routed_calibration_tokens": 139
+    },
+    "bf16|L9_E111_N321__neg": {
+      "q90": 0.015373516082763675,
+      "q97": 0.03701370239257802,
+      "routed_calibration_tokens": 4728
+    },
+    "bf16|L14_E149_N413__neg": {
+      "q90": 0.0032682418823242205,
+      "q97": 0.007586846351623534,
+      "routed_calibration_tokens": 1024
+    },
+    "bf16|L19_E41_N411__neg": {
+      "q90": 0.004883146286010744,
+      "q97": 0.011230564117431596,
+      "routed_calibration_tokens": 167
+    },
+    "bf16|L24_E242_N455__neg": {
+      "q90": 0.0304483413696289,
+      "q97": 0.05656234741210938,
+      "routed_calibration_tokens": 1593
+    },
+    "bf16|L30_E98_N323__neg": {
+      "q90": 0.04613723754882813,
+      "q97": 0.07626693725585938,
+      "routed_calibration_tokens": 5273
+    },
+    "bf16|L36_E207_N204__neg": {
+      "q90": 0.041164398193359375,
+      "q97": 0.06701736450195313,
+      "routed_calibration_tokens": 1631
+    },
+    "bf16|L9_E79_N375__neg": {
+      "q90": 0.009683799743652346,
+      "q97": 0.01932728290557862,
+      "routed_calibration_tokens": 2828
+    },
+    "bf16|L14_E34_N361__neg": {
+      "q90": 0.006779670715332039,
+      "q97": 0.013430213928222651,
+      "routed_calibration_tokens": 599
+    },
+    "bf16|L19_E242_N433__neg": {
+      "q90": 0.015053272247314458,
+      "q97": 0.04008682250976557,
+      "routed_calibration_tokens": 620
+    },
+    "bf16|L24_E79_N137__neg": {
+      "q90": 0.010417461395263672,
+      "q97": 0.030035972595214844,
+      "routed_calibration_tokens": 266
+    },
+    "bf16|L30_E26_N182__neg": {
+      "q90": 0.012054204940795898,
+      "q97": 0.019130229949951172,
+      "routed_calibration_tokens": 276
+    },
+    "bf16|L36_E24_N167__neg": {
+      "q90": 0.01612567901611328,
+      "q97": 0.03321895599365232,
+      "routed_calibration_tokens": 3136
+    },
+    "bf16|L9_E177_N137__neg": {
+      "q90": 0.008768248558044431,
+      "q97": 0.016003203392028806,
+      "routed_calibration_tokens": 494
+    },
+    "bf16|L14_E129_N371__neg": {
+      "q90": 0.005470037460327151,
+      "q97": 0.011202487945556639,
+      "routed_calibration_tokens": 135
+    },
+    "bf16|L19_E31_N326__neg": {
+      "q90": 0.014485263824462892,
+      "q97": 0.03123779296874997,
+      "routed_calibration_tokens": 4603
+    },
+    "bf16|L24_E42_N33__neg": {
+      "q90": 0.00710296630859375,
+      "q97": 0.013146686553955077,
+      "routed_calibration_tokens": 461
+    },
+    "fp8|L9_E163_N111__pos": {
+      "q90": 0.00963592529296875,
+      "q97": 0.015469312667846678,
+      "routed_calibration_tokens": 946
+    },
+    "fp8|L14_E109_N459__pos": {
+      "q90": 0.006885933876037599,
+      "q97": 0.012517170906066894,
+      "routed_calibration_tokens": 124
+    },
+    "fp8|L19_E125_N207__pos": {
+      "q90": 0.014521503448486331,
+      "q97": 0.028087120056152347,
+      "routed_calibration_tokens": 1310
+    },
+    "fp8|L24_E55_N465__pos": {
+      "q90": 0.012274932861328124,
+      "q97": 0.02407781600952147,
+      "routed_calibration_tokens": 4170
+    },
+    "fp8|L30_E166_N405__pos": {
+      "q90": 0.021256780624389637,
+      "q97": 0.03088171958923338,
+      "routed_calibration_tokens": 404
+    },
+    "fp8|L36_E111_N308__pos": {
+      "q90": 0.00464038848876953,
+      "q97": 0.016050910949707044,
+      "routed_calibration_tokens": 123
+    },
+    "fp8|L9_E238_N497__pos": {
+      "q90": 0.006704711914062504,
+      "q97": 0.014256067276000975,
+      "routed_calibration_tokens": 567
+    },
+    "fp8|L14_E239_N142__pos": {
+      "q90": 0.015656518936157226,
+      "q97": 0.03438014984130856,
+      "routed_calibration_tokens": 2254
+    },
+    "fp8|L19_E38_N59__pos": {
+      "q90": 0.015486526489257857,
+      "q97": 0.03183208465576172,
+      "routed_calibration_tokens": 3153
+    },
+    "fp8|L24_E65_N156__pos": {
+      "q90": 0.010509824752807618,
+      "q97": 0.024967575073242057,
+      "routed_calibration_tokens": 1229
+    },
+    "fp8|L30_E24_N187__pos": {
+      "q90": 0.016427993774414062,
+      "q97": 0.02926330566406246,
+      "routed_calibration_tokens": 741
+    },
+    "fp8|L36_E22_N7__pos": {
+      "q90": 0.021970081329345702,
+      "q97": 0.03704667091369629,
+      "routed_calibration_tokens": 424
+    },
+    "fp8|L9_E173_N429__pos": {
+      "q90": 0.007971954345703126,
+      "q97": 0.014316415786743168,
+      "routed_calibration_tokens": 635
+    },
+    "fp8|L14_E199_N300__pos": {
+      "q90": 0.0168609619140625,
+      "q97": 0.034191894531250044,
+      "routed_calibration_tokens": 2621
+    },
+    "fp8|L19_E97_N24__pos": {
+      "q90": 0.011305761337280272,
+      "q97": 0.021859159469604456,
+      "routed_calibration_tokens": 912
+    },
+    "fp8|L24_E51_N268__pos": {
+      "q90": 0.0035899877548217778,
+      "q97": 0.007573075294494625,
+      "routed_calibration_tokens": 159
+    },
+    "fp8|L9_E111_N321__neg": {
+      "q90": 0.01540889739990238,
+      "q97": 0.03736747741699212,
+      "routed_calibration_tokens": 4685
+    },
+    "fp8|L14_E149_N413__neg": {
+      "q90": 0.003373360633850097,
+      "q97": 0.0074954509735107415,
+      "routed_calibration_tokens": 1032
+    },
+    "fp8|L19_E41_N411__neg": {
+      "q90": 0.004525566101074219,
+      "q97": 0.01003149032592773,
+      "routed_calibration_tokens": 159
+    },
+    "fp8|L24_E242_N455__neg": {
+      "q90": 0.028582763671875,
+      "q97": 0.05410308837890625,
+      "routed_calibration_tokens": 1589
+    },
+    "fp8|L30_E98_N323__neg": {
+      "q90": 0.04435043334960938,
+      "q97": 0.07641242980957025,
+      "routed_calibration_tokens": 5243
+    },
+    "fp8|L36_E207_N204__neg": {
+      "q90": 0.04235420227050785,
+      "q97": 0.06736862182617186,
+      "routed_calibration_tokens": 1625
+    },
+    "fp8|L9_E79_N375__neg": {
+      "q90": 0.009628582000732426,
+      "q97": 0.020427360534667968,
+      "routed_calibration_tokens": 2783
+    },
+    "fp8|L14_E34_N361__neg": {
+      "q90": 0.007026243209838872,
+      "q97": 0.013336691856384275,
+      "routed_calibration_tokens": 615
+    },
+    "fp8|L19_E242_N433__neg": {
+      "q90": 0.016180467605590828,
+      "q97": 0.04027635574340818,
+      "routed_calibration_tokens": 658
+    },
+    "fp8|L24_E79_N137__neg": {
+      "q90": 0.010662269592285164,
+      "q97": 0.02524372100830077,
+      "routed_calibration_tokens": 273
+    },
+    "fp8|L30_E26_N182__neg": {
+      "q90": 0.012628984451293946,
+      "q97": 0.020039577484130856,
+      "routed_calibration_tokens": 273
+    },
+    "fp8|L36_E24_N167__neg": {
+      "q90": 0.0163726806640625,
+      "q97": 0.03362615585327149,
+      "routed_calibration_tokens": 3135
+    },
+    "fp8|L9_E177_N137__neg": {
+      "q90": 0.00878548622131348,
+      "q97": 0.01990833282470702,
+      "routed_calibration_tokens": 492
+    },
+    "fp8|L14_E129_N371__neg": {
+      "q90": 0.005649411678314212,
+      "q97": 0.01267051696777343,
+      "routed_calibration_tokens": 130
+    },
+    "fp8|L19_E31_N326__neg": {
+      "q90": 0.014561462402343753,
+      "q97": 0.030085716247558576,
+      "routed_calibration_tokens": 4568
+    },
+    "fp8|L24_E42_N33__neg": {
+      "q90": 0.006897997856140137,
+      "q97": 0.012286958694457995,
+      "routed_calibration_tokens": 458
+    }
+  }
+}

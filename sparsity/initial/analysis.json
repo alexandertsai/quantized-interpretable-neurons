@@ -1,0 +1,594 @@
+{
+  "conditions": {
+    "unmasked": {
+      "bf16": {
+        "loss_nats": 2.3046702665441177,
+        "kl_to_same_precision_unmasked_nats": 0.0,
+        "window_losses": [
+          1.98184814453125,
+          2.1673155541513482,
+          2.566802619485294,
+          2.493295706954657,
+          2.739563945695466,
+          1.8105643478094362,
+          2.805429496017157,
+          1.8725423177083333
+        ],
+        "window_kls": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "seconds": 6.272803544998169,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 0.0,
+        "relative_loss_increase_percent": 0.0
+      },
+      "fp8": {
+        "loss_nats": 2.322532294778263,
+        "kl_to_same_precision_unmasked_nats": 0.0,
+        "window_losses": [
+          2.00337464575674,
+          2.2047207701439953,
+          2.5901506012561275,
+          2.508087277879902,
+          2.7624964096966913,
+          1.8251989028033089,
+          2.8192066865808822,
+          1.867023064108456
+        ],
+        "window_kls": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "seconds": 7.387612581253052,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 0.017802457014719646,
+        "delta_loss_nats": 0.0,
+        "relative_loss_increase_percent": 0.0
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": 0.0
+    },
+    "top1024": {
+      "bf16": {
+        "loss_nats": 2.3358291925168504,
+        "kl_to_same_precision_unmasked_nats": 0.055527179469080534,
+        "window_losses": [
+          2.0258104511335784,
+          2.1900309244791667,
+          2.606375899969363,
+          2.5462876263786764,
+          2.8070623659620098,
+          1.857156431908701,
+          2.8081188725490196,
+          1.8457909677542892
+        ],
+        "window_kls": [
+          0.03746337493260701,
+          0.04248181803553712,
+          0.027877680226868273,
+          0.05374251346962125,
+          0.03214084272291146,
+          0.13416457176208496,
+          0.05260588374792361,
+          0.06374075085509057
+        ],
+        "seconds": 4.017773628234863,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 0.03115892597273273,
+        "relative_loss_increase_percent": 1.35199062638387
+      },
+      "fp8": {
+        "loss_nats": 2.3427971634210323,
+        "kl_to_same_precision_unmasked_nats": 0.05518219006412169,
+        "window_losses": [
+          2.0358173445159315,
+          2.2213795381433825,
+          2.6105909160539214,
+          2.5627786075367647,
+          2.8244446997549018,
+          1.825427006740196,
+          2.821602615655637,
+          1.8403365789675246
+        ],
+        "window_kls": [
+          0.03895393025641348,
+          0.04488188729566686,
+          0.03238312520232855,
+          0.05623478608972886,
+          0.03785331576478248,
+          0.12075922582663742,
+          0.04403412365445904,
+          0.06635712642295688
+        ],
+        "seconds": 4.8261377811431885,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 0.061379812482525324,
+        "delta_loss_nats": 0.02026486864276933,
+        "relative_loss_increase_percent": 0.8725333416603309
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": -0.010894057329963402,
+      "paired_window_extra_ablation_loss_difference_range": [
+        -0.04636398016237764,
+        0.001699410232843146
+      ]
+    },
+    "top512": {
+      "bf16": {
+        "loss_nats": 2.3768632178213083,
+        "kl_to_same_precision_unmasked_nats": 0.13757923718760995,
+        "window_losses": [
+          2.0489552217371325,
+          2.244116928998162,
+          2.632965207567402,
+          2.570349839154412,
+          2.852648686427696,
+          1.9200484930300246,
+          2.8347579656862747,
+          1.9110633999693627
+        ],
+        "window_kls": [
+          0.09642595637078379,
+          0.10067002866782394,
+          0.08299913733613257,
+          0.12290387761359121,
+          0.10239870174258363,
+          0.32736856890659705,
+          0.12300913380641564,
+          0.14485849305695178
+        ],
+        "seconds": 4.025477647781372,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 0.07219295127719061,
+        "relative_loss_increase_percent": 3.1324633430293236
+      },
+      "fp8": {
+        "loss_nats": 2.3811397926480162,
+        "kl_to_same_precision_unmasked_nats": 0.13791722070937062,
+        "window_losses": [
+          2.079348096660539,
+          2.2575865502450982,
+          2.6461399452359067,
+          2.586067708333333,
+          2.855079082414216,
+          1.9375052657781864,
+          2.7994363223805148,
+          1.8879553701363359
+        ],
+        "window_kls": [
+          0.09741068260342467,
+          0.10969259972665824,
+          0.0903773214302811,
+          0.1294196189618578,
+          0.10498283470378203,
+          0.3026858675713633,
+          0.11249481743457271,
+          0.15627402324302525
+        ],
+        "seconds": 5.017390727996826,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 0.14555788268061245,
+        "delta_loss_nats": 0.05860749786975328,
+        "relative_loss_increase_percent": 2.5234309120919507
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": -0.013585453407437331,
+      "paired_window_extra_ablation_loss_difference_range": [
+        -0.049098833869485325,
+        0.00886637369791643
+      ]
+    },
+    "top320": {
+      "bf16": {
+        "loss_nats": 2.4267176459817326,
+        "kl_to_same_precision_unmasked_nats": 0.21029551818090325,
+        "window_losses": [
+          2.1405043658088236,
+          2.260358503753064,
+          2.665361711090686,
+          2.6319412530637254,
+          2.900066779641544,
+          1.9865404316023285,
+          2.847928634344363,
+          1.9810394885493259
+        ],
+        "window_kls": [
+          0.14686144613752178,
+          0.1595892167558857,
+          0.12979326154671464,
+          0.17780157725016277,
+          0.16944012922399185,
+          0.45425759296791224,
+          0.23721715141745175,
+          0.2074037701475854
+        ],
+        "seconds": 4.023635149002075,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 0.1220473794376149,
+        "relative_loss_increase_percent": 5.295654706416042
+      },
+      "fp8": {
+        "loss_nats": 2.43433068967333,
+        "kl_to_same_precision_unmasked_nats": 0.20563544549194035,
+        "window_losses": [
+          2.141022805606618,
+          2.2585209865196076,
+          2.666662358302696,
+          2.655290910309436,
+          2.876053155637255,
+          2.0006272259880515,
+          2.8879198261335786,
+          1.9885482488893995
+        ],
+        "window_kls": [
+          0.1482602558883966,
+          0.15130031623092352,
+          0.13323801358540852,
+          0.17817275570888144,
+          0.15847329438901414,
+          0.4292661760367599,
+          0.21595463846244065,
+          0.2304181136336981
+        ],
+        "seconds": 4.953408241271973,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 0.2156471347107607,
+        "delta_loss_nats": 0.11179839489506715,
+        "relative_loss_increase_percent": 4.813642210548497
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": -0.010248984542547745,
+      "paired_window_extra_ablation_loss_difference_range": [
+        -0.046946088005514586,
+        0.026214001225490335
+      ]
+    },
+    "top256": {
+      "bf16": {
+        "loss_nats": 2.4510706434062883,
+        "kl_to_same_precision_unmasked_nats": 0.24019255538781484,
+        "window_losses": [
+          2.142816521139706,
+          2.275537109375,
+          2.697685929840686,
+          2.661939194623162,
+          2.911630189185049,
+          2.051559627757353,
+          2.877557253370098,
+          1.9898393219592525
+        ],
+        "window_kls": [
+          0.16326314514758541,
+          0.1853245220932306,
+          0.15538916494332108,
+          0.2221495142170027,
+          0.19592479677761301,
+          0.5162935126061533,
+          0.26299392662796317,
+          0.2202018606896494
+        ],
+        "seconds": 4.038101673126221,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 0.14640037686217067,
+        "relative_loss_increase_percent": 6.3523350384391275
+      },
+      "fp8": {
+        "loss_nats": 2.466013979444317,
+        "kl_to_same_precision_unmasked_nats": 0.23836468820478401,
+        "window_losses": [
+          2.162606751685049,
+          2.3291724111519607,
+          2.697540163526348,
+          2.637811159620098,
+          2.9349010991115194,
+          2.031301461014093,
+          2.9119920917585786,
+          2.0227866976868873
+        ],
+        "window_kls": [
+          0.16202738331813438,
+          0.2163666332469267,
+          0.16420487890056534,
+          0.19121652116962506,
+          0.22140325471466663,
+          0.4591540000017951,
+          0.24394855873257507,
+          0.2485962755539838
+        ],
+        "seconds": 4.981835603713989,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 0.24756247857037714,
+        "delta_loss_nats": 0.14348168466605404,
+        "relative_loss_increase_percent": 6.1778122521113366
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": -0.0029186921961166234,
+      "paired_window_extra_ablation_loss_difference_range": [
+        -0.03891960592830879,
+        0.038466629327512214
+      ]
+    },
+    "random320": {
+      "bf16": {
+        "loss_nats": 5.415658329982383,
+        "kl_to_same_precision_unmasked_nats": 3.2551147124346564,
+        "window_losses": [
+          4.773146446078432,
+          4.820437921262255,
+          5.460429591758579,
+          5.618408203125,
+          5.903474456188725,
+          5.303884229473039,
+          5.843061619178922,
+          5.602424172794118
+        ],
+        "window_kls": [
+          2.9348255830652574,
+          2.784996331906786,
+          2.9622229183421416,
+          3.2109355851715686,
+          3.226355369418275,
+          3.8649234248142617,
+          3.2209414613013174,
+          3.835717025457644
+        ],
+        "seconds": 3.882171392440796,
+        "scored_tokens": 2040,
+        "delta_loss_nats": 3.1109880634382656,
+        "relative_loss_increase_percent": 134.98625415527368
+      },
+      "fp8": {
+        "loss_nats": 5.3975736730238975,
+        "kl_to_same_precision_unmasked_nats": 3.230316781062706,
+        "window_losses": [
+          4.740103209252451,
+          4.789448816636029,
+          5.400454771752451,
+          5.600400677849264,
+          5.883446786917892,
+          5.3217663334865195,
+          5.8598862591911764,
+          5.585082529105392
+        ],
+        "window_kls": [
+          2.9076204038133806,
+          2.7508953019684435,
+          2.890075922947304,
+          3.1759744980755973,
+          3.174448050704657,
+          3.8728749293907017,
+          3.249543133903952,
+          3.8211020076976103
+        ],
+        "seconds": 5.800920486450195,
+        "scored_tokens": 2040,
+        "kl_from_bf16_unmasked_nats": 3.2414627467884736,
+        "delta_loss_nats": 3.0750413782456345,
+        "relative_loss_increase_percent": 132.40037114485915
+      },
+      "fp8_minus_bf16_extra_ablation_loss_nats": -0.03594668519263111,
+      "paired_window_extra_ablation_loss_difference_range": [
+        -0.08332280177696072,
+        0.003247549019607998
+      ]
+    }
+  },
+  "limitations": [
+    "Public WikiText substitute for the original unspecified web corpus.",
+    "Short, consecutive windows are correlated and do not establish broad capability retention.",
+    "Sparsity and selection stability do not establish semantic interpretability.",
+    "Released FP8 configuration changes selected weights and activations together; this does not isolate weight versus activation quantization."
+  ],
+  "routing_overlap_fraction": 0.95404052734375,
+  "top320_overlap_fraction": 0.9010485852137208,
+  "overlap_by_layer": [
+    {
+      "layer": 0,
+      "routing_overlap_fraction": 0.9814453125,
+      "top320_overlap_fraction": 0.9653198197484016
+    },
+    {
+      "layer": 1,
+      "routing_overlap_fraction": 0.97900390625,
+      "top320_overlap_fraction": 0.9511840790510178
+    },
+    {
+      "layer": 2,
+      "routing_overlap_fraction": 0.96630859375,
+      "top320_overlap_fraction": 0.9454589858651161
+    },
+    {
+      "layer": 3,
+      "routing_overlap_fraction": 0.95849609375,
+      "top320_overlap_fraction": 0.9322387725114822
+    },
+    {
+      "layer": 4,
+      "routing_overlap_fraction": 0.96533203125,
+      "top320_overlap_fraction": 0.9330810531973839
+    },
+    {
+      "layer": 5,
+      "routing_overlap_fraction": 0.96240234375,
+      "top320_overlap_fraction": 0.92919921875
+    },
+    {
+      "layer": 6,
+      "routing_overlap_fraction": 0.9580078125,
+      "top320_overlap_fraction": 0.92279052734375
+    },
+    {
+      "layer": 7,
+      "routing_overlap_fraction": 0.95654296875,
+      "top320_overlap_fraction": 0.917724609375
+    },
+    {
+      "layer": 8,
+      "routing_overlap_fraction": 0.9453125,
+      "top320_overlap_fraction": 0.9060913100838661
+    },
+    {
+      "layer": 9,
+      "routing_overlap_fraction": 0.9541015625,
+      "top320_overlap_fraction": 0.900646984577179
+    },
+    {
+      "layer": 10,
+      "routing_overlap_fraction": 0.958984375,
+      "top320_overlap_fraction": 0.9028198197484016
+    },
+    {
+      "layer": 11,
+      "routing_overlap_fraction": 0.95556640625,
+      "top320_overlap_fraction": 0.8966308683156967
+    },
+    {
+      "layer": 12,
+      "routing_overlap_fraction": 0.955078125,
+      "top320_overlap_fraction": 0.8955322280526161
+    },
+    {
+      "layer": 13,
+      "routing_overlap_fraction": 0.953125,
+      "top320_overlap_fraction": 0.8822876065969467
+    },
+    {
+      "layer": 14,
+      "routing_overlap_fraction": 0.9453125,
+      "top320_overlap_fraction": 0.8872558698058128
+    },
+    {
+      "layer": 15,
+      "routing_overlap_fraction": 0.9443359375,
+      "top320_overlap_fraction": 0.8824462816119194
+    },
+    {
+      "layer": 16,
+      "routing_overlap_fraction": 0.94970703125,
+      "top320_overlap_fraction": 0.8851806670427322
+    },
+    {
+      "layer": 17,
+      "routing_overlap_fraction": 0.955078125,
+      "top320_overlap_fraction": 0.8827026337385178
+    },
+    {
+      "layer": 18,
+      "routing_overlap_fraction": 0.94873046875,
+      "top320_overlap_fraction": 0.8850463926792145
+    },
+    {
+      "layer": 19,
+      "routing_overlap_fraction": 0.943359375,
+      "top320_overlap_fraction": 0.8739379942417145
+    },
+    {
+      "layer": 20,
+      "routing_overlap_fraction": 0.94775390625,
+      "top320_overlap_fraction": 0.8798828125
+    },
+    {
+      "layer": 21,
+      "routing_overlap_fraction": 0.951171875,
+      "top320_overlap_fraction": 0.8830932602286339
+    },
+    {
+      "layer": 22,
+      "routing_overlap_fraction": 0.9443359375,
+      "top320_overlap_fraction": 0.8864868208765984
+    },
+    {
+      "layer": 23,
+      "routing_overlap_fraction": 0.9482421875,
+      "top320_overlap_fraction": 0.8841552734375
+    },
+    {
+      "layer": 24,
+      "routing_overlap_fraction": 0.94384765625,
+      "top320_overlap_fraction": 0.8761962801218033
+    },
+    {
+      "layer": 25,
+      "routing_overlap_fraction": 0.93798828125,
+      "top320_overlap_fraction": 0.8676635771989822
+    },
+    {
+      "layer": 26,
+      "routing_overlap_fraction": 0.943359375,
+      "top320_overlap_fraction": 0.8746215775609016
+    },
+    {
+      "layer": 27,
+      "routing_overlap_fraction": 0.95849609375,
+      "top320_overlap_fraction": 0.8863159194588661
+    },
+    {
+      "layer": 28,
+      "routing_overlap_fraction": 0.94384765625,
+      "top320_overlap_fraction": 0.8839355558156967
+    },
+    {
+      "layer": 29,
+      "routing_overlap_fraction": 0.94677734375,
+      "top320_overlap_fraction": 0.8937255963683128
+    },
+    {
+      "layer": 30,
+      "routing_overlap_fraction": 0.95361328125,
+      "top320_overlap_fraction": 0.8958740085363388
+    },
+    {
+      "layer": 31,
+      "routing_overlap_fraction": 0.94921875,
+      "top320_overlap_fraction": 0.888916015625
+    },
+    {
+      "layer": 32,
+      "routing_overlap_fraction": 0.95654296875,
+      "top320_overlap_fraction": 0.9025268629193306
+    },
+    {
+      "layer": 33,
+      "routing_overlap_fraction": 0.96240234375,
+      "top320_overlap_fraction": 0.9104370027780533
+    },
+    {
+      "layer": 34,
+      "routing_overlap_fraction": 0.96044921875,
+      "top320_overlap_fraction": 0.9116577059030533
+    },
+    {
+      "layer": 35,
+      "routing_overlap_fraction": 0.94873046875,
+      "top320_overlap_fraction": 0.9016235396265984
+    },
+    {
+      "layer": 36,
+      "routing_overlap_fraction": 0.9599609375,
+      "top320_overlap_fraction": 0.9053833037614822
+    },
+    {
+      "layer": 37,
+      "routing_overlap_fraction": 0.94873046875,
+      "top320_overlap_fraction": 0.9040405377745628
+    },
+    {
+      "layer": 38,
+      "routing_overlap_fraction": 0.95458984375,
+      "top320_overlap_fraction": 0.9117065519094467
+    },
+    {
+      "layer": 39,
+      "routing_overlap_fraction": 0.96533203125,
+      "top320_overlap_fraction": 0.9161254838109016
+    }
+  ]
+}

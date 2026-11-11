@@ -1,0 +1,202 @@
+[
+  {
+    "layer": 0,
+    "routing_overlap_fraction": 0.9765625,
+    "top320_overlap_fraction": 0.961718738079071
+  },
+  {
+    "layer": 1,
+    "routing_overlap_fraction": 0.98046875,
+    "top320_overlap_fraction": 0.9496093988418579
+  },
+  {
+    "layer": 2,
+    "routing_overlap_fraction": 0.96875,
+    "top320_overlap_fraction": 0.9395507574081421
+  },
+  {
+    "layer": 3,
+    "routing_overlap_fraction": 0.9453125,
+    "top320_overlap_fraction": 0.923144519329071
+  },
+  {
+    "layer": 4,
+    "routing_overlap_fraction": 0.9609375,
+    "top320_overlap_fraction": 0.931933581829071
+  },
+  {
+    "layer": 5,
+    "routing_overlap_fraction": 0.9375,
+    "top320_overlap_fraction": 0.9139648675918579
+  },
+  {
+    "layer": 6,
+    "routing_overlap_fraction": 0.97265625,
+    "top320_overlap_fraction": 0.9234374761581421
+  },
+  {
+    "layer": 7,
+    "routing_overlap_fraction": 0.93359375,
+    "top320_overlap_fraction": 0.8896484375
+  },
+  {
+    "layer": 8,
+    "routing_overlap_fraction": 0.90234375,
+    "top320_overlap_fraction": 0.8915039300918579
+  },
+  {
+    "layer": 9,
+    "routing_overlap_fraction": 0.9296875,
+    "top320_overlap_fraction": 0.89013671875
+  },
+  {
+    "layer": 10,
+    "routing_overlap_fraction": 0.9609375,
+    "top320_overlap_fraction": 0.897265613079071
+  },
+  {
+    "layer": 11,
+    "routing_overlap_fraction": 0.95703125,
+    "top320_overlap_fraction": 0.892285168170929
+  },
+  {
+    "layer": 12,
+    "routing_overlap_fraction": 0.91796875,
+    "top320_overlap_fraction": 0.8651367425918579
+  },
+  {
+    "layer": 13,
+    "routing_overlap_fraction": 0.95703125,
+    "top320_overlap_fraction": 0.8646484613418579
+  },
+  {
+    "layer": 14,
+    "routing_overlap_fraction": 0.953125,
+    "top320_overlap_fraction": 0.859570324420929
+  },
+  {
+    "layer": 15,
+    "routing_overlap_fraction": 0.9296875,
+    "top320_overlap_fraction": 0.8626953363418579
+  },
+  {
+    "layer": 16,
+    "routing_overlap_fraction": 0.953125,
+    "top320_overlap_fraction": 0.886523425579071
+  },
+  {
+    "layer": 17,
+    "routing_overlap_fraction": 0.9453125,
+    "top320_overlap_fraction": 0.861523449420929
+  },
+  {
+    "layer": 18,
+    "routing_overlap_fraction": 0.94921875,
+    "top320_overlap_fraction": 0.86767578125
+  },
+  {
+    "layer": 19,
+    "routing_overlap_fraction": 0.94921875,
+    "top320_overlap_fraction": 0.858691394329071
+  },
+  {
+    "layer": 20,
+    "routing_overlap_fraction": 0.9140625,
+    "top320_overlap_fraction": 0.8641601800918579
+  },
+  {
+    "layer": 21,
+    "routing_overlap_fraction": 0.9453125,
+    "top320_overlap_fraction": 0.88427734375
+  },
+  {
+    "layer": 22,
+    "routing_overlap_fraction": 0.96875,
+    "top320_overlap_fraction": 0.887890636920929
+  },
+  {
+    "layer": 23,
+    "routing_overlap_fraction": 0.953125,
+    "top320_overlap_fraction": 0.86669921875
+  },
+  {
+    "layer": 24,
+    "routing_overlap_fraction": 0.92578125,
+    "top320_overlap_fraction": 0.86376953125
+  },
+  {
+    "layer": 25,
+    "routing_overlap_fraction": 0.9296875,
+    "top320_overlap_fraction": 0.859667956829071
+  },
+  {
+    "layer": 26,
+    "routing_overlap_fraction": 0.921875,
+    "top320_overlap_fraction": 0.8384765386581421
+  },
+  {
+    "layer": 27,
+    "routing_overlap_fraction": 0.92578125,
+    "top320_overlap_fraction": 0.8642578125
+  },
+  {
+    "layer": 28,
+    "routing_overlap_fraction": 0.9453125,
+    "top320_overlap_fraction": 0.8729492425918579
+  },
+  {
+    "layer": 29,
+    "routing_overlap_fraction": 0.93359375,
+    "top320_overlap_fraction": 0.86376953125
+  },
+  {
+    "layer": 30,
+    "routing_overlap_fraction": 0.94140625,
+    "top320_overlap_fraction": 0.8799804449081421
+  },
+  {
+    "layer": 31,
+    "routing_overlap_fraction": 0.9296875,
+    "top320_overlap_fraction": 0.865039050579071
+  },
+  {
+    "layer": 32,
+    "routing_overlap_fraction": 0.93359375,
+    "top320_overlap_fraction": 0.88671875
+  },
+  {
+    "layer": 33,
+    "routing_overlap_fraction": 0.95703125,
+    "top320_overlap_fraction": 0.8985351324081421
+  },
+  {
+    "layer": 34,
+    "routing_overlap_fraction": 0.94140625,
+    "top320_overlap_fraction": 0.890625
+  },
+  {
+    "layer": 35,
+    "routing_overlap_fraction": 0.90625,
+    "top320_overlap_fraction": 0.8905273675918579
+  },
+  {
+    "layer": 36,
+    "routing_overlap_fraction": 0.91796875,
+    "top320_overlap_fraction": 0.8837890625
+  },
+  {
+    "layer": 37,
+    "routing_overlap_fraction": 0.92578125,
+    "top320_overlap_fraction": 0.875292956829071
+  },
+  {
+    "layer": 38,
+    "routing_overlap_fraction": 0.9453125,
+    "top320_overlap_fraction": 0.9017578363418579
+  },
+  {
+    "layer": 39,
+    "routing_overlap_fraction": 0.95703125,
+    "top320_overlap_fraction": 0.901562511920929
+  }
+]

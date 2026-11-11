@@ -1,0 +1,261 @@
+{
+  "poles": [
+    {
+      "pid": "L9_E163_N111__pos",
+      "layer": 9,
+      "expert": 163,
+      "neuron": 111,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E163_N111__pos.json"
+    },
+    {
+      "pid": "L14_E109_N459__pos",
+      "layer": 14,
+      "expert": 109,
+      "neuron": 459,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E109_N459__pos.json"
+    },
+    {
+      "pid": "L19_E125_N207__pos",
+      "layer": 19,
+      "expert": 125,
+      "neuron": 207,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E125_N207__pos.json"
+    },
+    {
+      "pid": "L24_E55_N465__pos",
+      "layer": 24,
+      "expert": 55,
+      "neuron": 465,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E55_N465__pos.json"
+    },
+    {
+      "pid": "L30_E166_N405__pos",
+      "layer": 30,
+      "expert": 166,
+      "neuron": 405,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L30_E166_N405__pos.json"
+    },
+    {
+      "pid": "L36_E111_N308__pos",
+      "layer": 36,
+      "expert": 111,
+      "neuron": 308,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L36_E111_N308__pos.json"
+    },
+    {
+      "pid": "L9_E238_N497__pos",
+      "layer": 9,
+      "expert": 238,
+      "neuron": 497,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E238_N497__pos.json"
+    },
+    {
+      "pid": "L14_E239_N142__pos",
+      "layer": 14,
+      "expert": 239,
+      "neuron": 142,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E239_N142__pos.json"
+    },
+    {
+      "pid": "L19_E38_N59__pos",
+      "layer": 19,
+      "expert": 38,
+      "neuron": 59,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E38_N59__pos.json"
+    },
+    {
+      "pid": "L24_E65_N156__pos",
+      "layer": 24,
+      "expert": 65,
+      "neuron": 156,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E65_N156__pos.json"
+    },
+    {
+      "pid": "L30_E24_N187__pos",
+      "layer": 30,
+      "expert": 24,
+      "neuron": 187,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L30_E24_N187__pos.json"
+    },
+    {
+      "pid": "L36_E22_N7__pos",
+      "layer": 36,
+      "expert": 22,
+      "neuron": 7,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L36_E22_N7__pos.json"
+    },
+    {
+      "pid": "L9_E173_N429__pos",
+      "layer": 9,
+      "expert": 173,
+      "neuron": 429,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E173_N429__pos.json"
+    },
+    {
+      "pid": "L14_E199_N300__pos",
+      "layer": 14,
+      "expert": 199,
+      "neuron": 300,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E199_N300__pos.json"
+    },
+    {
+      "pid": "L19_E97_N24__pos",
+      "layer": 19,
+      "expert": 97,
+      "neuron": 24,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E97_N24__pos.json"
+    },
+    {
+      "pid": "L24_E51_N268__pos",
+      "layer": 24,
+      "expert": 51,
+      "neuron": 268,
+      "sign": 1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E51_N268__pos.json"
+    },
+    {
+      "pid": "L9_E111_N321__neg",
+      "layer": 9,
+      "expert": 111,
+      "neuron": 321,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E111_N321__neg.json"
+    },
+    {
+      "pid": "L14_E149_N413__neg",
+      "layer": 14,
+      "expert": 149,
+      "neuron": 413,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E149_N413__neg.json"
+    },
+    {
+      "pid": "L19_E41_N411__neg",
+      "layer": 19,
+      "expert": 41,
+      "neuron": 411,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E41_N411__neg.json"
+    },
+    {
+      "pid": "L24_E242_N455__neg",
+      "layer": 24,
+      "expert": 242,
+      "neuron": 455,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E242_N455__neg.json"
+    },
+    {
+      "pid": "L30_E98_N323__neg",
+      "layer": 30,
+      "expert": 98,
+      "neuron": 323,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L30_E98_N323__neg.json"
+    },
+    {
+      "pid": "L36_E207_N204__neg",
+      "layer": 36,
+      "expert": 207,
+      "neuron": 204,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L36_E207_N204__neg.json"
+    },
+    {
+      "pid": "L9_E79_N375__neg",
+      "layer": 9,
+      "expert": 79,
+      "neuron": 375,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E79_N375__neg.json"
+    },
+    {
+      "pid": "L14_E34_N361__neg",
+      "layer": 14,
+      "expert": 34,
+      "neuron": 361,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E34_N361__neg.json"
+    },
+    {
+      "pid": "L19_E242_N433__neg",
+      "layer": 19,
+      "expert": 242,
+      "neuron": 433,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E242_N433__neg.json"
+    },
+    {
+      "pid": "L24_E79_N137__neg",
+      "layer": 24,
+      "expert": 79,
+      "neuron": 137,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E79_N137__neg.json"
+    },
+    {
+      "pid": "L30_E26_N182__neg",
+      "layer": 30,
+      "expert": 26,
+      "neuron": 182,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L30_E26_N182__neg.json"
+    },
+    {
+      "pid": "L36_E24_N167__neg",
+      "layer": 36,
+      "expert": 24,
+      "neuron": 167,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L36_E24_N167__neg.json"
+    },
+    {
+      "pid": "L9_E177_N137__neg",
+      "layer": 9,
+      "expert": 177,
+      "neuron": 137,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L9_E177_N137__neg.json"
+    },
+    {
+      "pid": "L14_E129_N371__neg",
+      "layer": 14,
+      "expert": 129,
+      "neuron": 371,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L14_E129_N371__neg.json"
+    },
+    {
+      "pid": "L19_E31_N326__neg",
+      "layer": 19,
+      "expert": 31,
+      "neuron": 326,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L19_E31_N326__neg.json"
+    },
+    {
+      "pid": "L24_E42_N33__neg",
+      "layer": 24,
+      "expert": 42,
+      "neuron": 33,
+      "sign": -1,
+      "source_url": "https://static.goodfire.ai/neuron-atlas/2026-11-09-082204/subcircuit_modes_data/L24_E42_N33__neg.json"
+    }
+  ],
+  "selection_seed": 20261111
+}

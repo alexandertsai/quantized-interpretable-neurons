@@ -1,0 +1,17 @@
+{
+  "repo": "kernels-community/finegrained-fp8",
+  "caches": [
+    {
+      "cache": "/root/.cache/huggingface/hub/kernels--kernels-community--finegrained-fp8",
+      "snapshots": [
+        "03ae31933313f38fae2b050dbe2731024386c369"
+      ]
+    },
+    {
+      "cache": "/workspace/pilot/hf-cache/hub/kernels--kernels-community--finegrained-fp8",
+      "snapshots": [
+        "03ae31933313f38fae2b050dbe2731024386c369"
+      ]
+    }
+  ]
+}

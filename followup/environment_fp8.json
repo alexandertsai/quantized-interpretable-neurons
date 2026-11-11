@@ -1,0 +1,11 @@
+{
+  "precision": "fp8",
+  "model": "Qwen/Qwen3.6-35B-A3B-FP8",
+  "revision": "c653bba46dfa06e9658dcc0b0dc87fe4685f14a2",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "torch": "2.10.0+cu128",
+  "calibration_documents": 64,
+  "evaluation_documents": 32,
+  "tokens_per_document": 512,
+  "released_poles": 32
+}

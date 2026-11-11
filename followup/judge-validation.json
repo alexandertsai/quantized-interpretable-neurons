@@ -1,0 +1,415 @@
+{
+  "unique_pairs": 272,
+  "coverage_exact": true,
+  "batch_counts": [
+    59,
+    67,
+    78,
+    68
+  ],
+  "confidence_choice_mismatches": [
+    {
+      "batch": 0,
+      "id": "c_16df4cb9c3cc34",
+      "choice": "B",
+      "p_a": 0.51
+    },
+    {
+      "batch": 0,
+      "id": "c_e781f9c295d15e",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 0,
+      "id": "c_78c8b0de7d9eb3",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 0,
+      "id": "c_aa289056a918d4",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 0,
+      "id": "c_63a0eeaf0ad064",
+      "choice": "B",
+      "p_a": 0.65
+    },
+    {
+      "batch": 0,
+      "id": "c_1043c0cdc8f81c",
+      "choice": "B",
+      "p_a": 0.64
+    },
+    {
+      "batch": 0,
+      "id": "c_a5719ce7ba1d9c",
+      "choice": "B",
+      "p_a": 0.53
+    },
+    {
+      "batch": 0,
+      "id": "c_bf29adf29e7fdb",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 0,
+      "id": "c_31e29f44c272f5",
+      "choice": "B",
+      "p_a": 0.51
+    },
+    {
+      "batch": 0,
+      "id": "c_7ebeee6cd4302b",
+      "choice": "B",
+      "p_a": 0.61
+    },
+    {
+      "batch": 0,
+      "id": "c_c1074556666b78",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_a96efb431abb09",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 2,
+      "id": "c_08f54b150d6e63",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_604992dcf38d4a",
+      "choice": "A",
+      "p_a": 0.48
+    },
+    {
+      "batch": 2,
+      "id": "c_3e5ff308cb95f7",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_6a461974fdd6f8",
+      "choice": "B",
+      "p_a": 0.76
+    },
+    {
+      "batch": 2,
+      "id": "c_b9775437f8ea97",
+      "choice": "B",
+      "p_a": 0.78
+    },
+    {
+      "batch": 2,
+      "id": "c_55056329ad1068",
+      "choice": "B",
+      "p_a": 0.51
+    },
+    {
+      "batch": 2,
+      "id": "c_9e8d48f9aaab38",
+      "choice": "B",
+      "p_a": 0.51
+    },
+    {
+      "batch": 2,
+      "id": "c_d95b51d2dfac86",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 2,
+      "id": "c_8ec721ccac83a4",
+      "choice": "B",
+      "p_a": 0.51
+    },
+    {
+      "batch": 2,
+      "id": "c_379faaa6061b9b",
+      "choice": "B",
+      "p_a": 0.58
+    },
+    {
+      "batch": 2,
+      "id": "c_21788b090d116b",
+      "choice": "B",
+      "p_a": 0.53
+    },
+    {
+      "batch": 2,
+      "id": "c_d6454ad48aa451",
+      "choice": "B",
+      "p_a": 0.56
+    },
+    {
+      "batch": 2,
+      "id": "c_b8801ddf1b78e8",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_745ce454b89792",
+      "choice": "B",
+      "p_a": 0.72
+    },
+    {
+      "batch": 2,
+      "id": "c_a0c1bb4a414941",
+      "choice": "B",
+      "p_a": 0.53
+    },
+    {
+      "batch": 2,
+      "id": "c_4977497d874f76",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_bfe27af48435b0",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 2,
+      "id": "c_906b1d231665ed",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 2,
+      "id": "c_24bf8f97a439f2",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 2,
+      "id": "c_79b14ce7d47b7d",
+      "choice": "B",
+      "p_a": 0.53
+    },
+    {
+      "batch": 2,
+      "id": "c_fe10650a07193d",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 3,
+      "id": "c_a97c02d28da265",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_ef6eca90458d3b",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_77b753b0e916a2",
+      "choice": "B",
+      "p_a": 0.53
+    },
+    {
+      "batch": 3,
+      "id": "c_1b347967226e92",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 3,
+      "id": "c_065159ee7b24bc",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_6b3b137c322301",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_4f0fede29eac22",
+      "choice": "B",
+      "p_a": 0.68
+    },
+    {
+      "batch": 3,
+      "id": "c_86ff206b6b1f2a",
+      "choice": "B",
+      "p_a": 0.62
+    },
+    {
+      "batch": 3,
+      "id": "c_4452c36e2a8fe8",
+      "choice": "B",
+      "p_a": 0.68
+    },
+    {
+      "batch": 3,
+      "id": "c_40ebc2adfc5cf5",
+      "choice": "B",
+      "p_a": 0.57
+    },
+    {
+      "batch": 3,
+      "id": "c_d3b0bf5b1cba7e",
+      "choice": "B",
+      "p_a": 0.58
+    },
+    {
+      "batch": 3,
+      "id": "c_5c4b3877980444",
+      "choice": "B",
+      "p_a": 0.71
+    },
+    {
+      "batch": 3,
+      "id": "c_b7b83da89104a3",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_53e6da4f3324ff",
+      "choice": "B",
+      "p_a": 0.57
+    },
+    {
+      "batch": 3,
+      "id": "c_1e18b2d23a4ab4",
+      "choice": "B",
+      "p_a": 0.56
+    },
+    {
+      "batch": 3,
+      "id": "c_b479ad8d169dd1",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_5682648fbecff0",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_118764e5249283",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_05e2f76d240da6",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_49a1febd252e1c",
+      "choice": "B",
+      "p_a": 0.66
+    },
+    {
+      "batch": 3,
+      "id": "c_3f03915451d960",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_909f844458d4c2",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_4289099e1eae39",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_220ec1109ff334",
+      "choice": "B",
+      "p_a": 0.63
+    },
+    {
+      "batch": 3,
+      "id": "c_8f2ac70b6f3a3b",
+      "choice": "B",
+      "p_a": 0.57
+    },
+    {
+      "batch": 3,
+      "id": "c_cd4da83cc66516",
+      "choice": "B",
+      "p_a": 0.65
+    },
+    {
+      "batch": 3,
+      "id": "c_8db0e09178f282",
+      "choice": "B",
+      "p_a": 0.6
+    },
+    {
+      "batch": 3,
+      "id": "c_1d241e11ca23f0",
+      "choice": "B",
+      "p_a": 0.52
+    },
+    {
+      "batch": 3,
+      "id": "c_83fca803c48162",
+      "choice": "B",
+      "p_a": 0.58
+    },
+    {
+      "batch": 3,
+      "id": "c_92ecc8116952fe",
+      "choice": "B",
+      "p_a": 0.56
+    },
+    {
+      "batch": 3,
+      "id": "c_ce33afd3e0bb9b",
+      "choice": "B",
+      "p_a": 0.58
+    },
+    {
+      "batch": 3,
+      "id": "c_40b1fefe880627",
+      "choice": "B",
+      "p_a": 0.54
+    },
+    {
+      "batch": 3,
+      "id": "c_bbc51bae3b669d",
+      "choice": "B",
+      "p_a": 0.55
+    },
+    {
+      "batch": 3,
+      "id": "c_695ba4a0394d6d",
+      "choice": "B",
+      "p_a": 0.56
+    }
+  ],
+  "scoring": "Forced A/B choice only; numeric confidence is not used for primary analysis."
+}

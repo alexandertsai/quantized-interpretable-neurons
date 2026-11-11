@@ -218,3 +218,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Experiment downloads and generated text inputs
+hf-cache/
+bootstrap/
+*.pt
+*.safetensors
+*.zip
+tokens.json
+tokens_eval.json
+tokens_calibration.json
+descriptions.json
+detection_blind_batch_*.json
+run.log
+run-expanded.log
+setup.log
+
+# Rental access, credentials and local infrastructure
+.env
+.env.*
+rental.json
+*-rental.json
+server.key
+server.crt
+vast*.conf
+relay.conf
+*ssh.key*
+*known_hosts*
+guard.log

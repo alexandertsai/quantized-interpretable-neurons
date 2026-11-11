@@ -1,0 +1,41 @@
+{
+  "created_at": 1794421782.0007176,
+  "cumulative_vast_budget_usd": 6,
+  "prior_reported_vast_cost_usd": 0.816,
+  "mask_transfer": {
+    "model": "Qwen3.6-35B-A3B",
+    "evaluation": "same 32 WikiText test documents as first pilot, 512 tokens each",
+    "primary_comparison": "FP8 BF16-clean mask transfer versus FP8-clean top-m and random-m; identical m per token/layer and FP8-clean expert indices and router weights frozen",
+    "secondary": "adaptive top-320 and static clean top-320 for both precisions",
+    "coverage": "BF16-selected neurons in unrouted FP8 experts cannot be retained; report coverage explicitly",
+    "shared_experts": "unchanged"
+  },
+  "detection": {
+    "selected_poles": 32,
+    "positive_poles": 16,
+    "negative_poles": 16,
+    "calibration": "64 distinct WikiText training articles, seed 71042",
+    "evaluation": "32 distinct WikiText test articles, seed 42",
+    "firing_threshold": "97th percentile of signed router-weighted activation among routed calibration tokens, per precision",
+    "negative_threshold": "below 90th percentile, routed to same expert",
+    "pairs_per_pole_per_precision_max": 4,
+    "distinct_firing_documents": true,
+    "shuffled_description_controls_per_pole_per_precision_max": 2,
+    "judge": "gpt-6-luna via fresh Codex subagents",
+    "blinding": "only released descriptions and passage pairs; precision, pole IDs, activation values and answer key withheld",
+    "marking": "60 preceding tokens, focal token [TARGET], 8 following tokens",
+    "duplicate_pairs": "identical description and text pairs judged once and reused",
+    "limitations": [
+      "English Wikipedia covers only part of the released description domains.",
+      "Percentiles calibrated on our small corpus differ from original 10B-token corpus.",
+      "Overlap of our public texts with original author discovery corpus is unknown.",
+      "Luna replaces the paper judge; absolute accuracy is not a direct reproduction of the headline 95%."
+    ]
+  },
+  "source_hashes": {
+    "descriptions.json": "c99de6ede4ef2c41b84b2042571b897fbcf2cfcb9c8781bafddcc436a445baff",
+    "tokens_eval.json": "3e5d64dd75b5b3946e9b13bdc6a6f3a69a4af861654c7874b6c460a9349a3788",
+    "followup.py": "4497b0866d7814989d56c4525d38046bf21fbb0317c701eb9a4bc062b0467b14",
+    "prepare_judge.py": "7444b4e1fc221a387ef9a06b1bec89ac6dc1b0d77c614066f9baf2eba9924849"
+  }
+}

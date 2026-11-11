@@ -1,0 +1,27 @@
+{
+  "python": "3.12.3",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+  "gpu_memory_bytes": 101973491712,
+  "packages": {
+    "torch": "2.10.0+cu128",
+    "transformers": "5.23.0.dev0",
+    "triton": "3.6.0",
+    "kernels": "0.18.2",
+    "datasets": "5.2.0",
+    "huggingface_hub": "2.4.0"
+  },
+  "revisions": {
+    "Qwen/Qwen3.6-35B-A3B": "345d467b117d1fd5eda9b879a5988de9ae5f47a7",
+    "Qwen/Qwen3.6-35B-A3B-FP8": "c653bba46dfa06e9658dcc0b0dc87fe4685f14a2"
+  },
+  "dataset": "Salesforce/wikitext:wikitext-2-raw-v1:test",
+  "dataset_revision": "b08601e04326c79dfdd32d625aee71d232d685c3",
+  "seed": 42,
+  "windows": 32,
+  "sequence_length": 512,
+  "document_sampling": true,
+  "experts_implementation": "grouped_mm",
+  "attention": "sdpa",
+  "deepgemm_linear_disabled": true,
+  "mask": "router-weighted absolute SwiGLU output, top-K among 8x512, zero before down projection; shared experts untouched"
+}
