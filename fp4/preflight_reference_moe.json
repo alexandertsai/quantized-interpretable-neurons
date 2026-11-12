@@ -1,0 +1,4 @@
+{
+  "bf16_custom_moe_bitwise_equal": true,
+  "max_abs_logit_difference": 0.0
+}

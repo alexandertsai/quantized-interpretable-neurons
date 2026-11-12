@@ -1,0 +1,82 @@
+{
+  "study": "NVFP4 reference extension of the BF16/FP8 neuron sparsity pilot",
+  "status": "completed",
+  "models": {
+    "bf16": {
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "revision": "345d467b117d1fd5eda9b879a5988de9ae5f47a7"
+    },
+    "fp4": {
+      "id": "RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "revision": "e94a930c8e9b8a7d3763e449289c261c9c7d3e5e",
+      "publisher": "Red Hat, not Qwen",
+      "recipe": "released NVFP4 weights plus published locally dynamic 4-bit activation scheme; selected linear layers only",
+      "release_calibration_reported_by_card": {
+        "dataset": "HuggingFaceH4/ultrachat_200k train_sft first 256",
+        "samples": 256,
+        "maximum_length": 4096,
+        "seed": 42,
+        "procedure": "QuantizationModifier NVFP4, moe_calibrate_all_experts=True"
+      }
+    }
+  },
+  "execution": {
+    "image": "pytorch/pytorch:2.10.0-cuda12.8-cudnn9-runtime",
+    "transformers_commit": "e4e4e98845fcf92e2b75f709f356fbc838b55d11",
+    "compressed_tensors_version": "0.20.1",
+    "attention": "sdpa",
+    "matmul": "BF16 grouped_mm; no native FP4 GEMMs",
+    "weight_decode": "official CT E2M1 unpack and dequantization, returning BF16 values",
+    "activations": "official CT dynamic local scale computation and fake_quantize, per released expert/projection global scale",
+    "extra_rounding_caveat": "Decoding operands to BF16 before GEMMs may differ from scale handling and accumulation in native FP4 kernels. Native parity has not been established.",
+    "training_or_new_calibration": false,
+    "vision": "text only; released checkpoint omits visual tower"
+  },
+  "corpus": {
+    "dataset": "Salesforce/wikitext wikitext-2-raw-v1 test",
+    "revision": "b08601e04326c79dfdd32d625aee71d232d685c3",
+    "documents": 32,
+    "tokens_per_document": 512,
+    "predictions_per_condition": 16352,
+    "sample_sha256": "a4e3bd5043076ca2db1b350566189f910b0d415e60724d1ac73518b9b89e04ec"
+  },
+  "conditions": {
+    "bf16": [
+      "unmasked",
+      "adaptive320"
+    ],
+    "fp4_w4a4": [
+      "unmasked",
+      "adaptive320",
+      "transfer",
+      "matched_native",
+      "matched_random"
+    ],
+    "fp4_w4a16": [
+      "unmasked",
+      "adaptive320"
+    ]
+  },
+  "intervention": {
+    "point": "SwiGLU output of routed experts, before down projection activation quantization",
+    "score": "absolute activation multiplied by router weight",
+    "adaptive": "top 320 of 8 x 512 = 4096 routed neuron activations per token/layer; routing remains free",
+    "transfer": "BF16 clean top-320 neuron identities intersected with available FP4 clean routes",
+    "matched_native": "first m FP4 clean top-320 identities, where m is the number of available transferred identities",
+    "matched_random": "random m of 4096 available activations, fixed seed by layer/window",
+    "frozen": "transfer, matched_native and matched_random use the same FP4 clean expert indices and router weights throughout",
+    "shared_experts": "quantized as specified by the release; their neuron activations are not pruned"
+  },
+  "metrics": [
+    "cross entropy nats/token",
+    "KL from same-precision unmasked distribution",
+    "document bootstrap 95% intervals, 10000 resamples, seed 42"
+  ],
+  "limits": [
+    "32 short Wikipedia passages, not a broad capability benchmark",
+    "Calibration publisher and recipe change along with precision",
+    "Reference execution does not validate native kernel behavior or deployment savings",
+    "No semantic interpretation or judge-model claims in this extension"
+  ],
+  "result_producing_source_commit": "9510afe1fea0ad49fab1c31e043740ef715371b8"
+}

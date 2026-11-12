@@ -1,0 +1,19 @@
+{
+  "precision": "bf16",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "packages": {
+    "torch": "2.10.0+cu128",
+    "transformers": "5.23.0.dev0",
+    "compressed-tensors": "0.20.1",
+    "kernels": "0.18.3"
+  },
+  "windows": 32,
+  "sequence_length": 512,
+  "scored_tokens": 16352,
+  "bf16_revision": "345d467b117d1fd5eda9b879a5988de9ae5f47a7",
+  "nvfp4_model": "RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+  "nvfp4_revision": "e94a930c8e9b8a7d3763e449289c261c9c7d3e5e",
+  "matrix_multiplication_dtype": "bfloat16",
+  "nvfp4_mode": "reference weight decode plus activation quantize/dequantize; not native FP4 kernels",
+  "shared_experts_pruned": false
+}

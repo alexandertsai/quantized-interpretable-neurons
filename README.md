@@ -1,7 +1,8 @@
 # quantized-interpretable-neurons
 Follow-up study of Goodfire's neuron interpretability work, examining behavior
 across quantization levels. These are small, training-free experiments using
-the official BF16 and FP8 releases of Qwen3.6-35B-A3B.
+the official BF16 and FP8 releases of Qwen3.6-35B-A3B, plus a reference
+experiment using Red Hat’s released NVFP4 checkpoint.
 
 Reference: [Neurons as an Interpretable Basis](https://www.goodfire.com/research/neurons-as-an-interpretable-basis).
 
@@ -10,6 +11,10 @@ Reference: [Neurons as an Interpretable Basis](https://www.goodfire.com/research
 - **Activation sparsity:** top-320 filtering removes 92.2% of routed neuron
   activations. Loss increased 3.89% in BF16 and 3.70% in FP8 on 32 WikiText test
   articles. Random-320 filtering increased loss by about 135% in both.
+- **4-bit reference extension:** top-320 filtering adds 3.76% loss with the
+  released NVFP4 recipe, close to the BF16/FP8 results. BF16-selected masks
+  remain useful. FP4 values and activation rounding are evaluated using BF16
+  matrix multiplications; native FP4 kernels and neuron meanings are untested.
 - **Causal mask transfer:** available BF16-selected neurons remained useful in
   FP8. With frozen routing and matched retained counts, added loss was 0.0561
   nats/token for transferred masks, 0.0589 for FP8-selected masks, and 2.8636 for
@@ -23,13 +28,15 @@ Reference: [Neurons as an Interpretable Basis](https://www.goodfire.com/research
 These findings support sparse computation and causal mask transfer in this
 pilot. They do not establish that neuron meanings or reasoning capabilities
 are preserved. Corpus, context, threshold and judge differences limit direct
-comparison with the original article. No FP4 experiment has been run.
+comparison with the original article. The FP4 reference does not establish
+native FP4 kernel behavior or deployment savings.
 
 ## Repository contents
 
 | Directory | Contents |
 | --- | --- |
 | [sparsity/](sparsity/) | Initial BF16/FP8 sparsity sweep, methods, numerical results and plots |
+| [fp4/](fp4/) | Released NVFP4 reference pilot, weight-only control, matched mask transfer, uncertainty estimates and plots |
 | [followup/](followup/) | Matched-budget mask transfer, description detection, blind judge protocol, numerical observations and results |
 
 The scientific scripts are preserved alongside their outputs. Small packaging
@@ -51,6 +58,8 @@ python sparsity/analyze.py
 python sparsity/plot.py
 python followup/analyze.py
 python followup/plot.py
+python fp4/analyze.py
+python fp4/plot.py
 ```
 
 These commands use the committed numerical results and require no GPU.

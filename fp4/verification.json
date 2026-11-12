@@ -1,0 +1,7 @@
+{
+  "bf16_unmasked_every_document_exactly_reproduces_previous_run": true,
+  "bf16_top320_every_document_exactly_reproduces_previous_run": true,
+  "instrumentation_and_keep_all_bitwise_checks_both_precisions": true,
+  "native_fp4_kernel_parity_established": false,
+  "all_numeric_conditions_complete": true
+}

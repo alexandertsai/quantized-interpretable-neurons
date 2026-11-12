@@ -1,0 +1,6 @@
+{
+  "activation_qdq_max_abs_difference_to_official": 0.0,
+  "activation_qdq_bitwise_equal": true,
+  "weight_decompression_bitwise_equal": true,
+  "zero_row_finite": true
+}

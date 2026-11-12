@@ -1,0 +1,320 @@
+{
+  "documents": 32,
+  "tokens_per_document": 512,
+  "bootstrap_resamples": 10000,
+  "conditions": {
+    "bf16": {
+      "unmasked": {
+        "loss_nats": {
+          "mean": 2.1284468850510927,
+          "document_bootstrap_95ci": [
+            2.0202626843275158,
+            2.242590411255271
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "adaptive320": {
+        "loss_nats": {
+          "mean": 2.2111911587052617,
+          "document_bootstrap_95ci": [
+            2.0978996125685963,
+            2.3284818323624346
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.0827442736541688,
+          "document_bootstrap_95ci": [
+            0.06435663256859821,
+            0.10349873180725333
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 3.887542331232896,
+          "document_bootstrap_95ci": [
+            3.0465075698087674,
+            4.878151696712351
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.16638929593338542,
+          "document_bootstrap_95ci": [
+            0.14819287371761558,
+            0.1940061345596209
+          ]
+        }
+      }
+    },
+    "fp4_w4a4": {
+      "unmasked": {
+        "loss_nats": {
+          "mean": 2.168015172103613,
+          "document_bootstrap_95ci": [
+            2.0587081312899955,
+            2.2827310290588554
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "adaptive320": {
+        "loss_nats": {
+          "mean": 2.2494461149152247,
+          "document_bootstrap_95ci": [
+            2.136713409890401,
+            2.3683047161176947
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.08143094281161134,
+          "document_bootstrap_95ci": [
+            0.0624350392888437,
+            0.10119686248017846
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 3.7560135122393756,
+          "document_bootstrap_95ci": [
+            2.894989282726963,
+            4.683538587521654
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.20073432707885708,
+          "document_bootstrap_95ci": [
+            0.18268193552532977,
+            0.22429839778844624
+          ]
+        }
+      },
+      "transfer": {
+        "loss_nats": {
+          "mean": 2.2156118889377545,
+          "document_bootstrap_95ci": [
+            2.102484548255189,
+            2.334509009997672
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.04759671683414108,
+          "document_bootstrap_95ci": [
+            0.03649918879081593,
+            0.05884080306424556
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 2.195405154289509,
+          "document_bootstrap_95ci": [
+            1.697340367550559,
+            2.6807457242592916
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.14307908300463468,
+          "document_bootstrap_95ci": [
+            0.13239098145023223,
+            0.15683730153290376
+          ]
+        }
+      },
+      "matched_native": {
+        "loss_nats": {
+          "mean": 2.2242852339772563,
+          "document_bootstrap_95ci": [
+            2.1118817542163826,
+            2.3417550561945966
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.05627006187364311,
+          "document_bootstrap_95ci": [
+            0.045852582841936544,
+            0.06646590223517672
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 2.595464395161251,
+          "document_bootstrap_95ci": [
+            2.137222089902741,
+            3.0440307609582677
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.12946636598272918,
+          "document_bootstrap_95ci": [
+            0.12055380046759494,
+            0.14023379035022496
+          ]
+        }
+      },
+      "matched_random": {
+        "loss_nats": {
+          "mean": 5.020383204032763,
+          "document_bootstrap_95ci": [
+            4.828295630811478,
+            5.207090579740221
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 2.8523680319291502,
+          "document_bootstrap_95ci": [
+            2.7012102822268313,
+            2.999088815700284
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 131.56587041600417,
+          "document_bootstrap_95ci": [
+            122.29128035799404,
+            141.1502010962594
+          ]
+        },
+        "kl_nats": {
+          "mean": 3.0056431099859937,
+          "document_bootstrap_95ci": [
+            2.8548844533715463,
+            3.1495992566508093
+          ]
+        }
+      }
+    },
+    "fp4_w4a16": {
+      "unmasked": {
+        "loss_nats": {
+          "mean": 2.1497973798539074,
+          "document_bootstrap_95ci": [
+            2.0414743534506186,
+            2.2633162862400718
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.0,
+          "document_bootstrap_95ci": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "adaptive320": {
+        "loss_nats": {
+          "mean": 2.234421037647822,
+          "document_bootstrap_95ci": [
+            2.122422055208986,
+            2.3515564719758153
+          ]
+        },
+        "delta_loss_nats": {
+          "mean": 0.0846236577939147,
+          "document_bootstrap_95ci": [
+            0.06753282425688208,
+            0.10388158417494556
+          ]
+        },
+        "relative_loss_increase_percent": {
+          "estimate": 3.936355053129015,
+          "document_bootstrap_95ci": [
+            3.144970413168075,
+            4.849606627193027
+          ]
+        },
+        "kl_nats": {
+          "mean": 0.1676103019696859,
+          "document_bootstrap_95ci": [
+            0.15002747090249058,
+            0.1935101888813224
+          ]
+        }
+      }
+    }
+  },
+  "fp4_vs_bf16_unmasked_delta_loss_nats": {
+    "mean": 0.039568287052520315,
+    "document_bootstrap_95ci": [
+      0.030483844462206217,
+      0.0490752530891135
+    ]
+  },
+  "fp4_minus_bf16_pruning_overhead_percentage_points": {
+    "estimate": -0.13152881899352042,
+    "document_bootstrap_95ci": [
+      -0.6952641379034574,
+      0.4464225110082513
+    ]
+  },
+  "activation_rounding_unmasked_delta_loss_nats": {
+    "mean": 0.018217792249705697,
+    "document_bootstrap_95ci": [
+      0.011515349371325945,
+      0.024857831794455044
+    ]
+  },
+  "transfer_minus_native_window_losses": {
+    "mean": -0.008673345039502033,
+    "document_bootstrap_95ci": [
+      -0.015302709030778414,
+      -0.0020758242523133885
+    ]
+  },
+  "transfer_minus_native_window_kls": {
+    "mean": 0.013612717021905514,
+    "document_bootstrap_95ci": [
+      0.010351876673195695,
+      0.017533236105950027
+    ]
+  },
+  "transferred_mean_kept": 312.4489501953125,
+  "transferred_available_percent": 97.64029693603514
+}
