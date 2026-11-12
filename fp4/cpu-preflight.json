@@ -1,0 +1,6 @@
+{
+  "compressed_tensors_version": "0.20.1",
+  "vectorized_activation_qdq_matches_official_forward_quantize": true,
+  "zero_activation_row_finite": true,
+  "released_expert_decompression_matches_official_compressor": true
+}
