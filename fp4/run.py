@@ -1,5 +1,5 @@
 """Matched text-only BF16 / released NVFP4-reference sparsity pilot."""
-import argparse,json,time,pathlib,types,importlib.metadata,zlib,base64
+import argparse,json,time,pathlib,types,importlib.metadata,zlib,base64,hashlib
 import torch
 import base as B
 from mask import Instrument
@@ -94,7 +94,10 @@ def run(precision,windows):
             # Vast's authenticated logs API is also a result transport. No
             # credentials, model weights or raw text are included in this bundle.
             bundle={p.name:json.loads(p.read_text()) for pattern in ['results_*.json','preflight*.json','environment*.json'] for p in ROOT.glob(pattern)}
-            print('RESULT_ZLIB '+base64.b64encode(zlib.compress(json.dumps(bundle).encode())).decode(),flush=True)
+            encoded=base64.b64encode(zlib.compress(json.dumps(bundle).encode())).decode()
+            digest=hashlib.sha256(encoded.encode()).hexdigest()[:16]
+            chunks=[encoded[j:j+400] for j in range(0,len(encoded),400)]
+            for j,chunk in enumerate(chunks):print(f'RESULT_CHUNK {digest} {j} {len(chunks)} {chunk}',flush=True)
         emit('precision_done',precision=precision)
 
 if __name__=='__main__':
